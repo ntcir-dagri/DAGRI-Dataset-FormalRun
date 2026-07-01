@@ -1,0 +1,409 @@
+{
+  "items": [
+    {
+      "name": "育苗ハウス設置",
+      "description": null,
+      "equipments": null,
+      "materials": [
+        {
+          "name": "ビニール",
+          "usage": null,
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.8,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "心土破砕",
+      "description": null,
+      "equipments": [
+        {
+          "name": "サブソイラー（8本爪）",
+          "hour": 0.6
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.6,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "堆肥散布",
+      "description": null,
+      "equipments": [
+        {
+          "name": "マニアスプレッダー（3t）",
+          "hour": 0.35
+        },
+        {
+          "name": "フロントローダー",
+          "hour": 0.35
+        }
+      ],
+      "materials": [
+        {
+          "name": "堆肥",
+          "usage": 1490,
+          "usage_unit": "kg"
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.70,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "耕起",
+      "description": null,
+      "equipments": [
+        {
+          "name": "チゼル（9本刃）",
+          "hour": 0.5
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.5,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "施肥",
+      "description": null,
+      "equipments": [
+        {
+          "name": "ブロードキャスター（800l）",
+          "hour": 0.1
+        },
+        {
+          "name": "フロントローダー",
+          "hour": 0.1
+        }
+      ],
+      "materials": [
+        {
+          "name": "鶏糞ペレット",
+          "usage": 180,
+          "usage_unit": "kg"
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.3,
+      "cost": null,
+      "note": "有機肥料（注参照）"
+    },
+    {
+      "name": "砕土・整地",
+      "description": null,
+      "equipments": [
+        {
+          "name": "ロータリーハロー（2.6m）",
+          "hour": 0.5
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.5,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "は種準備",
+      "description": null,
+      "equipments": [
+        {
+          "name": "手作業",
+          "hour": 0.7
+        }
+      ],
+      "materials": [
+        {
+          "name": "育苗床土",
+          "usage": null,
+          "usage_unit": null
+        },
+        {
+          "name": "セルトレイ（50穴、72穴）",
+          "usage": null,
+          "usage_unit": null
+        },
+        {
+          "name": "被覆資材（シルバーポリシート）",
+          "usage": null,
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.7,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "は種",
+      "description": null,
+      "equipments": [
+        {
+          "name": "手作業",
+          "hour": 1.7
+        }
+      ],
+      "materials": [
+        {
+          "name": "種子",
+          "usage": 610,
+          "usage_unit": "粒"
+        }
+      ],
+      "number_of_workers": 2,
+      "total_number_of_hours": 1.7,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "育苗管理",
+      "description": null,
+      "equipments": [
+        {
+          "name": "かん水、温度管理",
+          "hour": 0.7
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.7,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "定植準備",
+      "description": null,
+      "equipments": [
+        {
+          "name": "ロータリーマルチャー",
+          "hour": 0.8
+        }
+      ],
+      "materials": [
+        {
+          "name": "マルチビニール（95㎝、穴あき）",
+          "usage": 340,
+          "usage_unit": "m"
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.8,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "定植",
+      "description": null,
+      "equipments": [
+        {
+          "name": "軽トラック",
+          "hour": 0.3
+        }
+      ],
+      "materials": [
+        {
+          "name": "苗",
+          "usage": 5500,
+          "usage_unit": "株"
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.3,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "定植",
+      "description": null,
+      "equipments": [
+        {
+          "name": "手作業",
+          "hour": 6.8
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 2,
+      "total_number_of_hours": 6.8,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "分肥",
+      "description": null,
+      "equipments": [
+        {
+          "name": "ブロードキャスター（800l）",
+          "hour": 0.1
+        },
+        {
+          "name": "フロントローダー",
+          "hour": 0.1
+        }
+      ],
+      "materials": [
+        {
+          "name": "鶏糞ペレット",
+          "usage": 70,
+          "usage_unit": "kg"
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.2,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "耕起（混和）",
+      "description": null,
+      "equipments": [
+        {
+          "name": "ロータリーハロー（2.6m）",
+          "hour": 0.20
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.20,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "除草管理",
+      "description": "ホー除草",
+      "equipments": [
+        {
+          "name": "ロータリーハロー（1.7m）",
+          "hour": 1.4
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 2,
+      "total_number_of_hours": 1.4,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "除草管理",
+      "description": "畦間除草",
+      "equipments": [
+        {
+          "name": "ロータリーハロー（1.7m）",
+          "hour": 0.5
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.5,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "除草管理",
+      "description": "ホー除草",
+      "equipments": [
+        {
+          "name": "ロータリーハロー（1.7m）",
+          "hour": 1.5
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 2,
+      "total_number_of_hours": 1.5,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "収穫",
+      "description": "切取・集め　うち機械稼働",
+      "equipments": [
+        {
+          "name": "バックリフト・鉄コン",
+          "hour": 9.41
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 2,
+      "total_number_of_hours": 9.41,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "収穫",
+      "description": "畑からハウスへ運搬",
+      "equipments": [
+        {
+          "name": "バックリフト・鉄コン",
+          "hour": 1.6
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 1.6,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "残渣処理",
+      "description": "茎葉残渣細断",
+      "equipments": [
+        {
+          "name": "チョッパー（1.6m）",
+          "hour": 0.6
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.6,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "残渣処理",
+      "description": "マルチ回収",
+      "equipments": null,
+      "materials": null,
+      "number_of_workers": 2,
+      "total_number_of_hours": 2.50,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "残渣処理",
+      "description": "残渣鋤きこみ",
+      "equipments": [
+        {
+          "name": "ロータリーハロー（2.6m)",
+          "hour": 0.5
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.5,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "出荷",
+      "description": "有機農協が集荷",
+      "equipments": [
+        {
+          "name": "バックリフト",
+          "hour": 0.14
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.14,
+      "cost": null,
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "items": [
+    {
+      "name": "心土破砕",
+      "description": null,
+      "equipments": [
+        {
+          "name": "79psサブソイラー",
+          "hour": 0.42
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": null,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "堆肥散布",
+      "description": null,
+      "equipments": [
+        {
+          "name": "43psマニュアスプレッダー（1.5t）",
+          "hour": null
+        },
+        {
+          "name": "フロントローダー",
+          "hour": null
+        }
+      ],
+      "materials": [
+        {
+          "name": "豚ぷん",
+          "usage": 0.6,
+          "usage_unit": "t/10a"
+        },
+        {
+          "name": "茎葉残さ",
+          "usage": null,
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.56,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "耕起、緑肥鋤込み",
+      "description": null,
+      "equipments": [
+        {
+          "name": "79psロータリーハロー",
+          "hour": 0.28
+        },
+        {
+          "name": "79psロータリーハロー",
+          "hour": 0.28
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.56,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "は種・鎮圧",
+      "description": null,
+      "equipments": [
+        {
+          "name": "43psグレンドリル12条",
+          "hour": 0.15
+        },
+        {
+          "name": "43ps鎮圧ローラー",
+          "hour": 0.14
+        }
+      ],
+      "materials": [
+        {
+          "name": "ゆめちから",
+          "usage": 16.0,
+          "usage_unit": "kg/10a"
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.29,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "融雪促進",
+      "description": null,
+      "equipments": [
+        {
+          "name": "43ps、ブロードキャスター",
+          "hour": 0.3
+        }
+      ],
+      "materials": [
+        {
+          "name": "くん炭（もみがら）",
+          "usage": 100.0,
+          "usage_unit": "l/10a"
+        }
+      ],
+      "number_of_workers": 2,
+      "total_number_of_hours": 0.3,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "追肥",
+      "description": null,
+      "equipments": [
+        {
+          "name": "43ps、ブロードキャスター",
+          "hour": 0.2
+        }
+      ],
+      "materials": [
+        {
+          "name": "オーガニック853",
+          "usage": 71,
+          "usage_unit": "kg/10a"
+        }
+      ],
+      "number_of_workers": 2,
+      "total_number_of_hours": 0.20,
+      "cost": null,
+      "note": "有機肥料（注参照）注１）「有機肥料」とは有機JAS規格の別表１に該当する肥料のことである。堆肥も同様。"
+    },
+    {
+      "name": "除草、拾い草",
+      "description": null,
+      "equipments": [
+        {
+          "name": "手除草",
+          "hour": 0.2
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.20,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "収穫・運搬",
+      "description": null,
+      "equipments": [
+        {
+          "name": "自走式汎用コンバイン",
+          "hour": 0.55
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.55,
+      "cost": null,
+      "note": "フレコンバッグ積み、即出荷"
+    },
+    {
+      "name": "茎葉処理",
+      "description": null,
+      "equipments": [
+        {
+          "name": "43ps、ストローチョッパー",
+          "hour": 0.27
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.27,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "乾燥・出荷",
+      "description": null,
+      "equipments": null,
+      "materials": null,
+      "number_of_workers": null,
+      "total_number_of_hours": null,
+      "cost": null,
+      "note": "業者への委託"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+    "items": [
+        {
+            "item_name": "作業及び収納舎",
+            "amount": 1,
+            "specification": "軽量鉄骨 60㎡",
+            "acquisition_cost": 5029000,
+            "service_life": 24,
+            "depreciation_cost": 1812000
+        },
+        {
+            "item_name": "農具舎",
+            "amount": 1,
+            "specification": "軽量鉄骨 30㎡",
+            "acquisition_cost": 2835000,
+            "service_life": 24,
+            "depreciation_cost": 118000
+        },
+        {
+            "item_name": "ビニールハウス（育苗用）",
+            "amount": 1,
+            "specification": "AP単棟ﾊｳｽ：100㎡（本体のみ）",
+            "acquisition_cost": 4967000,
+            "service_life": 10,
+            "depreciation_cost": 248000
+        },
+        {
+            "item_name": "トラクター",
+            "amount": 1,
+            "specification": "30PS、140cm幅ロータリー装着",
+            "acquisition_cost": 2128000,
+            "service_life": 10,
+            "depreciation_cost": 152000
+        },
+        {
+            "item_name": "管理機",
+            "amount": 1,
+            "specification": "6.2PS",
+            "acquisition_cost": 278000,
+            "service_life": 7,
+            "depreciation_cost": 20000
+        },
+        {
+            "item_name": "動力噴霧機",
+            "amount": 1,
+            "specification": "可搬式（5MPa）",
+            "acquisition_cost": 184000,
+            "service_life": 7,
+            "depreciation_cost": 13000
+        },
+        {
+            "item_name": "トラック",
+            "amount": 1,
+            "specification": "1.5tトラック",
+            "acquisition_cost": 3544000,
+            "service_life": 5,
+            "depreciation_cost": 354000
+        },
+        {
+            "item_name": "運搬車",
+            "amount": 1,
+            "specification": "リフトダンプ（600kg・6.2PS）",
+            "acquisition_cost": 535000,
+            "service_life": 7,
+            "depreciation_cost": 38000
+        },
+        {
+            "item_name": "堆肥散布機",
+            "amount": 1,
+            "specification": "1100kg・乗トラけん引",
+            "acquisition_cost": 779000,
+            "service_life": 7,
+            "depreciation_cost": 56000
+        },
+        {
+            "item_name": "土壌消毒機",
+            "amount": 1,
+            "specification": "ティラー けん引・2条",
+            "acquisition_cost": 87000,
+            "service_life": 7,
+            "depreciation_cost": 6000
+        },
+        {
+            "item_name": "畦立マルチシーダー",
+            "amount": 1,
+            "specification": "乗用トラクター用",
+            "acquisition_cost": 1028000,
+            "service_life": 7,
+            "depreciation_cost": 73000
+        },
+        {
+            "item_name": "播種機（にんじん）",
+            "amount": 1,
+            "specification": "歩行2条（コート種子、電動アシスト）",
+            "acquisition_cost": 209000,
+            "service_life": 7,
+            "depreciation_cost": 15000
+        },
+        {
+            "item_name": "収穫機（にんじん）",
+            "amount": 1,
+            "specification": "ソリ式",
+            "acquisition_cost": 439000,
+            "service_life": 7,
+            "depreciation_cost": 31000
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "prefecture_name": "自治体B",
+  "area_name": null,
+  "crop_names": [
+    "水稲",
+    "冬作ブロッコリー"
+  ],
+  "cultivate_land": 2000,
+  "cultivate_land_unit": "a",
+  "borrowed_cultivate_land": 2000,
+  "owned_cultivate_land": 0,
+  "labor_raw": "4",
+  "labors": 4,
+  "total_income": 6559000,
+  "total_labor_hours": 6420,
+  "note": "基盤整備地区の中山間地域\n水稲に野菜の営農"
+}

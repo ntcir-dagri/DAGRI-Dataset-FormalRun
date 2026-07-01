@@ -1,0 +1,16 @@
+{
+    "items": [
+        {
+            "crop_name": "トマト",
+            "cultivar_name": "麗月",
+            "area": 40,
+            "area_unit": "a"
+        },
+        {
+            "crop_name": "きゅうり",
+            "cultivar_name": "",
+            "area": 20,
+            "area_unit": "a"
+        }
+    ]
+}

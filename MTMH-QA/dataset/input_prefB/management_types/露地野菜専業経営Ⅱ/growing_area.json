@@ -1,0 +1,29 @@
+{
+    "items": [
+        {
+            "crop_name": "春はくさい",
+            "cultivars": null,
+            "area": 50
+        },
+        {
+            "crop_name": "冬にんじん",
+            "cultivars": null,
+            "area": 200
+        },
+        {
+            "crop_name": "春にんじん",
+            "cultivars": null,
+            "area": 100
+        },
+        {
+            "crop_name": "秋冬だいこん",
+            "cultivars": null,
+            "area": 50
+        },
+        {
+            "crop_name": "春だいこん",
+            "cultivars": null,
+            "area": 100
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+  "items": [
+    {
+      "item_name": "作業及び収納舎",
+      "amount": 1,
+      "specification": "軽量鉄骨 60m^2",
+      "acquisition_cost": 5671000,
+      "service_life": 24,
+      "depreciation_cost": 236000
+    },
+    {
+      "item_name": "農具舎",
+      "amount": 1,
+      "specification": "軽量鉄骨 30m^2",
+      "acquisition_cost": 2835000,
+      "service_life": 24,
+      "depreciation_cost": 118000
+    },
+    {
+      "item_name": "貯蔵用ハウス",
+      "amount": 1,
+      "specification": "パイプハウス 75m^2",
+      "acquisition_cost": 373000,
+      "service_life": 10,
+      "depreciation_cost": 19000
+    },
+    {
+      "item_name": "トラクター",
+      "amount": 1,
+      "specification": "30ps、140cmロータリー装着",
+      "acquisition_cost": 2128000,
+      "service_life": 7,
+      "depreciation_cost": 152000
+    },
+    {
+      "item_name": "ロータリー",
+      "amount": 1,
+      "specification": "乗用トラクター用、耕幅150cm",
+      "acquisition_cost": 498000,
+      "service_life": 7,
+      "depreciation_cost": 36000
+    },
+    {
+      "item_name": "管理機",
+      "amount": 1,
+      "specification": "6ps",
+      "acquisition_cost": 278000,
+      "service_life": 7,
+      "depreciation_cost": 20000
+    },
+    {
+      "item_name": "動力噴霧機",
+      "amount": 1,
+      "specification": "可搬式5ps",
+      "acquisition_cost": 184000,
+      "service_life": 7,
+      "depreciation_cost": 13000
+    },
+    {
+      "item_name": "トラック",
+      "amount": 1,
+      "specification": "軽トラック",
+      "acquisition_cost": 1324000,
+      "service_life": 4,
+      "depreciation_cost": 166000
+    },
+    {
+      "item_name": "たまねぎ移植機",
+      "amount": 1,
+      "specification": "歩行4条",
+      "acquisition_cost": 498000,
+      "service_life": 7,
+      "depreciation_cost": 36000
+    },
+    {
+      "item_name": "たまねぎ掘取機",
+      "amount": 1,
+      "specification": "トラクター装着",
+      "acquisition_cost": 714000,
+      "service_life": 7,
+      "depreciation_cost": 51000
+    },
+    {
+      "item_name": "畦立てマルチャー",
+      "amount": 1,
+      "specification": "トラクター装着",
+      "acquisition_cost": 409000,
+      "service_life": 7,
+      "depreciation_cost": 29000
+    },
+    {
+      "item_name": "ねぎ類剪葉機",
+      "amount": 1,
+      "specification": "3.1ps、刈幅110cm",
+      "acquisition_cost": 330000,
+      "service_life": 7,
+      "depreciation_cost": 24000
+    }
+  ]
+}

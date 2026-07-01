@@ -1,0 +1,132 @@
+{
+  "items": [
+    {
+      "item_name": "機械倉庫",
+      "amount": 1,
+      "specification": "軽量鉄骨180m^2",
+      "acquisition_cost": 17012000,
+      "service_life": 24,
+      "depreciation_cost": 709000
+    },
+    {
+      "item_name": "予冷庫",
+      "amount": 1,
+      "specification": "2坪",
+      "acquisition_cost": 1019000,
+      "service_life": 8,
+      "depreciation_cost": 127000
+    },
+    {
+      "item_name": "育苗ハウス",
+      "amount": 1,
+      "specification": "パイプハウス 50m^2",
+      "acquisition_cost": 248000,
+      "service_life": 10,
+      "depreciation_cost": 25000
+    },
+    {
+      "item_name": "作業及び収納舎",
+      "amount": 1,
+      "specification": "軽量鉄骨 60m^2",
+      "acquisition_cost": 5671000,
+      "service_life": 24,
+      "depreciation_cost": 236000
+    },
+    {
+      "item_name": "トラクター",
+      "amount": 2,
+      "specification": "41PS（直進、キャビン仕様）",
+      "acquisition_cost": 11008000,
+      "service_life": 7,
+      "depreciation_cost": 1573000
+    },
+    {
+      "item_name": "ロータリー",
+      "amount": 2,
+      "specification": "作業幅170cm",
+      "acquisition_cost": 1067000,
+      "service_life": 7,
+      "depreciation_cost": 152000
+    },
+    {
+      "item_name": "代かきハロー",
+      "amount": 2,
+      "specification": "作業幅340cm",
+      "acquisition_cost": 1535000,
+      "service_life": 7,
+      "depreciation_cost": 219000
+    },
+    {
+      "item_name": "ブロードキャスタ",
+      "amount": 2,
+      "specification": "ホッパ容量600L",
+      "acquisition_cost": 1206000,
+      "service_life": 7,
+      "depreciation_cost": 172000
+    },
+    {
+      "item_name": "育苗用播種機",
+      "amount": 1,
+      "specification": "600箱/時間",
+      "acquisition_cost": 602000,
+      "service_life": 7,
+      "depreciation_cost": 86000
+    },
+    {
+      "item_name": "田植機",
+      "amount": 2,
+      "specification": "6条（高密度播種、施肥、直進）",
+      "acquisition_cost": 6479000,
+      "service_life": 7,
+      "depreciation_cost": 926000
+    },
+    {
+      "item_name": "自脱型コンバイン",
+      "amount": 2,
+      "specification": "５条刈り 70PS",
+      "acquisition_cost": 17665000,
+      "service_life": 7,
+      "depreciation_cost": 2524000
+    },
+    {
+      "item_name": "トラック",
+      "amount": 2,
+      "specification": "2トン",
+      "acquisition_cost": 7512000,
+      "service_life": 5,
+      "depreciation_cost": 1502000
+    },
+    {
+      "item_name": "動力噴霧機",
+      "amount": 1,
+      "specification": "可搬式",
+      "acquisition_cost": 184000,
+      "service_life": 7,
+      "depreciation_cost": 30000
+    },
+    {
+      "item_name": "管理機",
+      "amount": 1,
+      "specification": "6PS",
+      "acquisition_cost": 218000,
+      "service_life": 7,
+      "depreciation_cost": 29000
+    },
+    {
+      "item_name": "移植機",
+      "amount": 1,
+      "specification": "歩行型半自動",
+      "acquisition_cost": 556000,
+      "service_life": 7,
+      "depreciation_cost": 90000
+    },
+    {
+      "item_name": "草刈り機",
+      "amount": 4,
+      "specification": "背負式",
+      "acquisition_cost": 200000,
+      "service_life": 7,
+      "depreciation_cost": 22000
+    }
+  ]
+}

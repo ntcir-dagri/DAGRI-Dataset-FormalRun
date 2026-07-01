@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "crop_name": "水稲",
+      "cultivars": null,
+      "area": 400
+    },
+    {
+      "crop_name": "小麦",
+      "cultivars": [
+        {
+          "name": "B2号"
+        }
+      ],
+      "area": 500
+    },
+    {
+      "crop_name": "二条大麦",
+      "cultivars": null,
+      "area": 500
+    },
+    {
+      "crop_name": "大豆",
+      "cultivars": null,
+      "area": 600
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "items": [
+    {
+      "name": "（育苗）苗床作り",
+      "description": "耕起、苗床準備",
+      "eqiupments": [
+        {
+          "name": "管理機",
+          "hour": 10.0
+        },
+        {
+          "name": "トラクター",
+          "hour": 10.0
+        }
+      ],
+      "materials": [
+        {
+          "name": "448穴セルトレイ",
+          "usage": "69",
+          "usage_unit": "枚"
+        },
+        {
+          "name": "専用培土",
+          "usage": null,
+          "usage_unit": null
+        },
+        {
+          "name": "根切りネット",
+          "usage": null,
+          "usage_unit": null
+        },
+        {
+          "name": "ラブシート",
+          "usage": null,
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 2,
+      "total_number_of_hours": 10.0,
+      "cost": null,
+      "note": "育苗床は、均平に整地する。"
+    },
+    {
+      "name": "は種",
+      "description": null,
+      "eqiupments": null,
+      "materials": [
+        {
+          "name": "コート種子",
+          "usage": "30000",
+          "usage_unit": "粒"
+        }
+      ],
+      "number_of_workers": 2,
+      "total_number_of_hours": 6.8,
+      "cost": null,
+      "note": "セルトレイに播種"
+    },
+    {
+      "name": "剪葉・追肥",
+      "description": null,
+      "eqiupments": [
+        {
+          "name": "剪葉機",
+          "hour": 3.0
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 3.0,
+      "cost": null,
+      "note": "草丈が18～20cmの頃、12～15cm程度に葉を切りそろえる。"
+    },
+    {
+      "name": "かん水",
+      "description": null,
+      "eqiupments": null,
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 6.0,
+      "cost": null,
+      "note": "セルトレイ育苗は乾燥しやすいので注意する。"
+    },
+    {
+      "name": "病害虫防除",
+      "description": null,
+      "eqiupments": [
+        {
+          "name": "動力噴霧機",
+          "hour": 1.0
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 1.0,
+      "cost": null,
+      "note": "県病害虫防除基準による適正防除。"
+    },
+    {
+      "name": "（育苗）耕耘・整地",
+      "description": "耕転、整地",
+      "eqiupments": [
+        {
+          "name": "トラクター",
+          "hour": 4.5
+        }
+      ],
+      "materials": [
+        {
+          "name": "堆肥",
+          "usage": "2",
+          "usage_unit": "t"
+        },
+        {
+          "name": "石灰質資材",
+          "usage": "100",
+          "usage_unit": "kg"
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 4.5,
+      "cost": null,
+      "note": "有機質の施用。"
+    },
+    {
+      "name": "施肥",
+      "description": "基肥",
+      "eqiupments": [
+        {
+          "name": "トラクター",
+          "hour": 4.0
+        }
+      ],
+      "materials": [
+        {
+          "name": "窒素（N）",
+          "usage": "25",
+          "usage_unit": "kg"
+        },
+        {
+          "name": "リン酸（P2O5）",
+          "usage": "27",
+          "usage_unit": "kg"
+        },
+        {
+          "name": "加里（K2O）",
+          "usage": "25",
+          "usage_unit": "kg"
+        }
+      ],
+      "number_of_workers": 2,
+      "total_number_of_hours": 4.0,
+      "cost": null,
+      "note": "分施割合：元肥40％、追肥60％。"
+    },
+    {
+      "name": "施肥",
+      "description": "追肥、土入れ",
+      "eqiupments": [
+        {
+          "name": "管理機",
+          "hour": 4.0
+        }
+      ],
+      "materials": [
+        {
+          "name": "窒素（N）",
+          "usage": "25",
+          "usage_unit": "kg"
+        },
+        {
+          "name": "リン酸（P2O5）",
+          "usage": "27",
+          "usage_unit": "kg"
+        },
+        {
+          "name": "加里（K2O）",
+          "usage": "25",
+          "usage_unit": "kg"
+        }
+      ],
+      "number_of_workers": 2,
+      "total_number_of_hours": 4.0,
+      "cost": null,
+      "note": "遅くなっての追肥は、貯蔵中の腐敗が多くなるので注意。"
+    },
+    {
+      "name": "うね立て・定植",
+      "description": null,
+      "eqiupments": [
+        {
+          "name": "管理機",
+          "hour": 8.0
+        },
+        {
+          "name": "移植機",
+          "hour": 8.0
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 2,
+      "total_number_of_hours": 8.0,
+      "cost": null,
+      "note": "栽植密度等150cm×10cm(5条)、120cm×10cm(4条)、10a当り33,000本 機械によるセル苗定植。"
+    },
+    {
+      "name": "除草（除草剤散布）",
+      "description": null,
+      "eqiupments": null,
+      "materials": null,
+      "number_of_workers": 2,
+      "total_number_of_hours": 4.0,
+      "cost": null,
+      "note": "県病害虫防除基準による適正使用。"
+    },
+    {
+      "name": "病害虫防除（圃場）",
+      "description": "薬剤散布",
+      "eqiupments": [
+        {
+          "name": "動力噴霧機",
+          "hour": 12.0
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 2,
+      "total_number_of_hours": 12.0,
+      "cost": null,
+      "note": "県病害虫防除基準による適正防除。"
+    },
+    {
+      "name": "収穫",
+      "description": null,
+      "eqiupments": [
+        {
+          "name": "収穫機",
+          "hour": 48.0
+        },
+        {
+          "name": "トラック",
+          "hour": 48.0
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 2,
+      "total_number_of_hours": 48.0,
+      "cost": null,
+      "note": "茎が80％程度倒伏したとき、晴天日に収穫する。ほ場で1～2日風乾し、首が充分しまってから取り入れ、乾燥通風の良い場所に貯蔵する。病害球は確実に除去する。"
+    },
+    {
+      "name": "貯蔵・出荷",
+      "description": null,
+      "eqiupments": [
+        {
+          "name": "トラック",
+          "hour": 25.0
+        },
+        {
+          "name": "ビニールハウス",
+          "hour": 25.0
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 2,
+      "total_number_of_hours": 25.0,
+      "cost": null,
+      "note": "ほ場で1～2日風乾し、首が充分しまってから取り入れ、乾燥通風の良い場所に貯蔵する。病害球は確実に除去する。"
+    },
+    {
+      "name": "後かたづけ",
+      "description": null,
+      "eqiupments": [
+        {
+          "name": "トラック",
+          "hour": 6.0
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 2,
+      "total_number_of_hours": 6.0,
+      "cost": null,
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "items": [
+    {
+      "name": "ほ場準備",
+      "period": "7月上旬",
+      "hours": 4
+    },
+    {
+      "name": "ほ場準備",
+      "period": "7月中旬",
+      "hours": 4
+    },
+    {
+      "name": "ほ場準備",
+      "period": "7月下旬",
+      "hours": 4
+    },
+    {
+      "name": "は種",
+      "period": "7月下旬",
+      "hours": 2
+    },
+    {
+      "name": "は種",
+      "period": "8月上旬",
+      "hours": 4
+    },
+    {
+      "name": "は種",
+      "period": "8月中旬",
+      "hours": 2
+    },
+    {
+      "name": "かん水",
+      "period": "8月上旬",
+      "hours": 3
+    },
+    {
+      "name": "かん水",
+      "period": "8月中旬",
+      "hours": 3
+    },
+    {
+      "name": "かん水",
+      "period": "8月下旬",
+      "hours": 3
+    },
+    {
+      "name": "かん水",
+      "period": "9月上旬",
+      "hours": 1
+    },
+    {
+      "name": "かん水",
+      "period": "9月中旬",
+      "hours": 1
+    },
+    {
+      "name": "かん水",
+      "period": "9月下旬",
+      "hours": 1
+    },
+    {
+      "name": "かん水",
+      "period": "10月上旬",
+      "hours": 1
+    },
+    {
+      "name": "かん水",
+      "period": "10月中旬",
+      "hours": 1
+    },
+    {
+      "name": "かん水",
+      "period": "10月下旬",
+      "hours": 1
+    },
+    {
+      "name": "間引き",
+      "period": "8月下旬",
+      "hours": 6
+    },
+    {
+      "name": "間引き",
+      "period": "9月上旬",
+      "hours": 6
+    },
+    {
+      "name": "間引き",
+      "period": "9月中旬",
+      "hours": 6
+    },
+    {
+      "name": "間引き",
+      "period": "9月下旬",
+      "hours": 6
+    },
+    {
+      "name": "土寄せ",
+      "period": "9月下旬",
+      "hours": 1
+    },
+    {
+      "name": "土寄せ",
+      "period": "10月上旬",
+      "hours": 1
+    },
+    {
+      "name": "土寄せ",
+      "period": "10月中旬",
+      "hours": 1
+    },
+    {
+      "name": "病害虫・雑草防除",
+      "period": "8月上旬",
+      "hours": 2
+    },
+    {
+      "name": "病害虫・雑草防除",
+      "period": "9月中旬",
+      "hours": 2
+    },
+    {
+      "name": "病害虫・雑草防除",
+      "period": "9月下旬",
+      "hours": 2
+    },
+    {
+      "name": "病害虫・雑草防除",
+      "period": "10月上旬",
+      "hours": 2
+    },
+    {
+      "name": "病害虫・雑草防除",
+      "period": "10月中旬",
+      "hours": 2
+    },
+    {
+      "name": "病害虫・雑草防除",
+      "period": "10月下旬",
+      "hours": 2
+    },
+    {
+      "name": "収穫・出荷",
+      "period": "11月下旬",
+      "hours": 1
+    },
+    {
+      "name": "収穫・出荷",
+      "period": "12月上旬",
+      "hours": 2
+    },
+    {
+      "name": "収穫・出荷",
+      "period": "12月中旬",
+      "hours": 2
+    },
+    {
+      "name": "収穫・出荷",
+      "period": "12月下旬",
+      "hours": 2
+    },
+    {
+      "name": "収穫・出荷",
+      "period": "1月上旬",
+      "hours": 2
+    },
+    {
+      "name": "収穫・出荷",
+      "period": "1月中旬",
+      "hours": 1
+    },
+    {
+      "name": "後かたづけ",
+      "period": "1月中旬",
+      "hours": 2
+    },
+    {
+      "name": "後かたづけ",
+      "period": "1月下旬",
+      "hours": 4
+    }
+  ],
+  "term_unit": "上中下旬"
+}

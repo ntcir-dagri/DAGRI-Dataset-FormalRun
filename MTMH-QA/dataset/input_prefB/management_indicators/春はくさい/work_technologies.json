@@ -1,0 +1,233 @@
+{
+    "items": [
+        {
+            "name": "（育苗）は種",
+            "description": null,
+            "eqiupments": null,
+            "materials": [
+                {
+                    "name": "コート種子",
+                    "usage": "6,000",
+                    "usage_unit": "粒"
+                },
+                {
+                    "name": "セルトレイ(128穴)",
+                    "usage": "46",
+                    "usage_unit": "個"
+                }
+            ],
+            "number_of_workers": 2,
+            "total_number_of_hours": 11.0,
+            "cost": null,
+            "note": "1穴に1粒ずつは種。地温18～25℃を確保。"
+        },
+        {
+            "name": "育苗管理",
+            "description": "温度管理、かん水、病害虫防除",
+            "eqiupments": [
+                {
+                    "name": "動力噴霧機",
+                    "hour": 12.0
+                }
+            ],
+            "materials": null,
+            "number_of_workers": 2,
+            "total_number_of_hours": 12.0,
+            "cost": null,
+            "note": "育苗中平均温度15～25℃で管理する。13℃以下では花芽分化しやすい。最低気温8℃以下にはしない。病害虫防除は〇〇病害虫防除基準により。"
+        },
+        {
+            "name": "（本ほ）耕うん・整地",
+            "description": "耕起\n整地",
+            "eqiupments": [
+                {
+                    "name": "トラクター",
+                    "hour": 4.0
+                }
+            ],
+            "materials": [
+                {
+                    "name": "堆肥",
+                    "usage": "2,000",
+                    "usage_unit": "kg"
+                },
+                {
+                    "name": "石灰質資材",
+                    "usage": "150",
+                    "usage_unit": "kg"
+                }
+            ],
+            "number_of_workers": 1,
+            "total_number_of_hours": 4.0,
+            "cost": null,
+            "note": ""
+        },
+        {
+            "name": "施肥",
+            "description": "",
+            "eqiupments": [
+                {
+                    "name": "トラクター",
+                    "hour": 4.0
+                }
+            ],
+            "materials": [
+                {
+                    "name": "N",
+                    "usage": "25",
+                    "usage_unit": "kg"
+                },
+                {
+                    "name": "P2O5",
+                    "usage": "35",
+                    "usage_unit": "kg"
+                },
+                {
+                    "name": "K2O",
+                    "usage": "25",
+                    "usage_unit": "kg"
+                }
+            ],
+            "number_of_workers": 2,
+            "total_number_of_hours": 4.0,
+            "cost": null,
+            "note": "水田はネコブ病予防のため、土壌施薬剤を施用する。"
+        },
+        {
+            "name": "マルチ被覆",
+            "description": "ポリマルチ被覆",
+            "eqiupments": [
+                {
+                    "name": "畦立マルチシーダー",
+                    "hour": 8.0
+                }
+            ],
+            "materials": [
+                {
+                    "name": "ポリマルチ",
+                    "usage": null,
+                    "usage_unit": null
+                }
+            ],
+            "number_of_workers": 2,
+            "total_number_of_hours": 8.0,
+            "cost": null,
+            "note": "地温を高めるため早めにマルチ及びトンネルを被覆する。"
+        },
+        {
+            "name": "トンネル被覆",
+            "description": null,
+            "eqiupments": null,
+            "materials": [
+                {
+                    "name": "トンネルビニール",
+                    "usage": null,
+                    "usage_unit": null
+                },
+                {
+                    "name": "トンネル支柱",
+                    "usage": null,
+                    "usage_unit": null
+                }
+            ],
+            "number_of_workers": 3,
+            "total_number_of_hours": 22.0,
+            "cost": null,
+            "note": null
+        },
+        {
+            "name": "定植",
+            "description": null,
+            "eqiupments": [
+                {
+                    "name": "トラック",
+                    "hour": 12.0
+                }
+            ],
+            "materials": null,
+            "number_of_workers": 3,
+            "total_number_of_hours": 12.0,
+            "cost": null,
+            "note": "栽植密度：うね幅160cm、3条×40cm（条間40cm）。10a当り約5,200株。育苗日数40日程度、本葉8枚の苗を定植する。活着を促すため必ず定植時のかん水をする。"
+        },
+        {
+            "name": "トンネル換気",
+            "description": null,
+            "eqiupments": null,
+            "materials": null,
+            "number_of_workers": 1,
+            "total_number_of_hours": 32.0,
+            "cost": null,
+            "note": "本葉10枚までは密閉気味にし、その後徐々に換気をする（25℃以上で換気）。長期の密閉は軟弱徒長するので注意する。"
+        },
+        {
+            "name": "トンネル除去",
+            "description": null,
+            "eqiupments": null,
+            "materials": null,
+            "number_of_workers": 2,
+            "total_number_of_hours": 4.0,
+            "cost": null,
+            "note": "芯葉抱合時にトンネル除去。"
+        },
+        {
+            "name": "病害虫防除",
+            "description": "薬剤散布",
+            "eqiupments": [
+                {
+                    "name": "動力噴霧機",
+                    "hour": null
+                },
+                {
+                    "name": "トラック",
+                    "hour": null
+                }
+            ],
+            "materials": [],
+            "number_of_workers": 2,
+            "total_number_of_hours": 12.0,
+            "cost": null,
+            "note": "使用薬剤及び使用方法は〇〇病害虫防除基準による。"
+        },
+        {
+            "name": "収穫・出荷",
+            "description": "収穫・出荷",
+            "eqiupments": [
+                {
+                    "name": "運搬車",
+                    "hour": null
+                },
+                {
+                    "name": "トラック",
+                    "hour": null
+                }
+            ],
+            "materials": [
+                {
+                    "name": "ダンボール",
+                    "usage": "750",
+                    "usage_unit": "個"
+                }
+            ],
+            "number_of_workers": 3,
+            "total_number_of_hours": 34.0,
+            "cost": null,
+            "note": "収穫適期が短いので注意する。"
+        },
+        {
+            "name": "後かたづけ",
+            "description": null,
+            "eqiupments": [
+                {
+                    "name": "トラック",
+                    "hour": 10.0
+                }
+            ],
+            "materials": null,
+            "number_of_workers": 2,
+            "total_number_of_hours": 10.0,
+            "cost": null,
+            "note": "ほ場に残渣物が残らないように注意する。"
+        }
+    ]
+}

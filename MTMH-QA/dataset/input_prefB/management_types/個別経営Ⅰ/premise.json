@@ -1,0 +1,18 @@
+{
+  "prefecture_name": "自治体B",
+  "area_name": null,
+  "crop_names": [
+    "水稲",
+    "麦類",
+    "秋大豆"
+  ],
+  "cultivated_land": 1000,
+  "cultivated_land_unit": "a",
+  "borrowed_cultivated_land": 600,
+  "owned_cultivated_land": 400,
+  "labor_raw": "2",
+  "labors": 2,
+  "total_income": 7435000,
+  "total_labor_hours": 1647,
+  "note": "（1）基盤整備地区における個別経営による営農\n（2）作業の一部は委託"
+}

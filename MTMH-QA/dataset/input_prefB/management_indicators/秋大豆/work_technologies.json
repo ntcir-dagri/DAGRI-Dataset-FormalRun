@@ -1,0 +1,262 @@
+{
+  "items": [
+    {
+      "name": "排水対策",
+      "description": "①排水対策",
+      "equipments": [
+        {
+          "name": "サブソイラー",
+          "hour": 0.7
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.7,
+      "cost": null,
+      "note": ""
+    },
+    {
+      "name": "種子の予措",
+      "description": "①種子消毒",
+      "equipments": [
+        {
+          "name": "",
+          "hour": 0.3
+        }
+      ],
+      "materials": [
+        {
+          "name": "種子粉衣剤",
+          "usage": "",
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 2,
+      "total_number_of_hours": 0.3,
+      "cost": null,
+      "note": "『〇〇病害虫防除基準』参照"
+    },
+    {
+      "name": "土壌改良剤散布",
+      "description": "①土壌改良剤散布",
+      "equipments": [
+        {
+          "name": "ブロードキャスタ",
+          "hour": 0.2
+        }
+      ],
+      "materials": [
+        {
+          "name": "苦土石灰",
+          "usage": "",
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 2,
+      "total_number_of_hours": 0.2,
+      "cost": null,
+      "note": "〇〇施肥基準参照"
+    },
+    {
+      "name": "除草",
+      "description": "①除草剤散布",
+      "equipments": [
+        {
+          "name": "ブームスプレーヤー",
+          "hour": 0.1
+        }
+      ],
+      "materials": [
+        {
+          "name": "除草剤",
+          "usage": "",
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.1,
+      "cost": null,
+      "note": "非選択性除草剤を使用"
+    },
+    {
+      "name": "施肥・播種",
+      "description": "①施肥・播種",
+      "equipments": [
+        {
+          "name": "施肥播種機",
+          "hour": 1.0
+        }
+      ],
+      "materials": [
+        {
+          "name": "種子、化成肥料",
+          "usage": "",
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 2,
+      "total_number_of_hours": 1.0,
+      "cost": null,
+      "note": "梅雨の晴れ間に播種できるように\n一工程播種を検討する"
+    },
+    {
+      "name": "除草",
+      "description": "②除草剤散布",
+      "equipments": [
+        {
+          "name": "ブームスプレーヤー",
+          "hour": 0.2
+        }
+      ],
+      "materials": [
+        {
+          "name": "除草剤",
+          "usage": "",
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.2,
+      "cost": null,
+      "note": "『〇〇病害虫防除基準』参照\n残草が多いときは後期剤を施用す\nる。"
+    },
+    {
+      "name": "中耕",
+      "description": "①中耕",
+      "equipments": [
+        {
+          "name": "中耕ロータリー、トラクター",
+          "hour": 0.5
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.5,
+      "cost": null,
+      "note": "子葉が土で覆われる程度"
+    },
+    {
+      "name": "中耕",
+      "description": "②中耕",
+      "equipments": [
+        {
+          "name": "中耕ロータリー、トラクター",
+          "hour": 0.4
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.4,
+      "cost": null,
+      "note": "初生葉が土で覆われる程度"
+    },
+    {
+      "name": "病害虫防除",
+      "description": "①農薬散布(1回目)",
+      "equipments": [
+        {
+          "name": "ブームスプレーヤー",
+          "hour": 0.2
+        }
+      ],
+      "materials": [
+        {
+          "name": "農薬",
+          "usage": "",
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.2,
+      "cost": null,
+      "note": "『〇〇病害虫防除基準』参照\nﾌｪﾛﾓﾝﾄﾗｯﾌﾟの設置により発生状況を把握し適期防除に努める。"
+    },
+    {
+      "name": "病害虫防除",
+      "description": "②農薬散布(2回目)",
+      "equipments": [
+        {
+          "name": "ブームスプレーヤー",
+          "hour": 0.2
+        }
+      ],
+      "materials": [
+        {
+          "name": "農薬",
+          "usage": "",
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.2,
+      "cost": null,
+      "note": "『〇〇病害虫防除基準』参照\nﾌｪﾛﾓﾝﾄﾗｯﾌﾟの設置により発生状況を把握し適期防除に努める。"
+    },
+    {
+      "name": "病害虫防除",
+      "description": "③農薬散布(3回目)",
+      "equipments": [
+        {
+          "name": "ブームスプレーヤー",
+          "hour": 0.2
+        }
+      ],
+      "materials": [
+        {
+          "name": "農薬",
+          "usage": "",
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.2,
+      "cost": null,
+      "note": "『〇〇病害虫防除基準』参照\nﾌｪﾛﾓﾝﾄﾗｯﾌﾟの設置により発生状\n況を把握し適期防除に努める。"
+    },
+    {
+      "name": "収穫",
+      "description": "①刈取り",
+      "equipments": [
+        {
+          "name": "普通型コンバイン",
+          "hour": 1.0
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 1.0,
+      "cost": null,
+      "note": "ｶﾒﾑｼ被害株や雑草等は汚損粒の発生の原因になるので除去する。"
+    },
+    {
+      "name": "収穫",
+      "description": "①運搬",
+      "equipments": [
+        {
+          "name": "トラック",
+          "hour": 0.7
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.7,
+      "cost": null,
+      "note": "共同乾燥施設のコンテナレンタル"
+    },
+    {
+      "name": "乾燥･調製",
+      "description": "①共乾施設",
+      "equipments": [
+        {
+          "name": "委託",
+          "hour": 0.0
+        }
+      ],
+      "materials": null,
+      "number_of_workers": null,
+      "total_number_of_hours": null,
+      "cost": null,
+      "note": "共同乾燥施設利用"
+    }
+  ]
+}

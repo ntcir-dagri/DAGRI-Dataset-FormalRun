@@ -1,0 +1,213 @@
+{
+    "items": [
+        {
+            "name": "耕転・整地",
+            "description": "耕起 整地",
+            "eqiupments": [
+                {
+                    "name": "トラクター",
+                    "hour": 4.0
+                }
+            ],
+            "materials": [
+                {
+                    "name": "石灰質資材",
+                    "usage": "140",
+                    "usage_unit": "kg"
+                }
+            ],
+            "number_of_workers": 1,
+            "total_number_of_hours": 4.0,
+            "cost": null,
+            "note": "堆肥は前作に施用。酸度矯正を行う。耕土が浅いとぬ根、変形の原因となるので深耕し、十分砕土を行う。"
+        },
+        {
+            "name": "施肥",
+            "description": "基肥施用",
+            "eqiupments": [
+                {
+                    "name": "トラクター",
+                    "hour": 4.0
+                }
+            ],
+            "materials": [
+                {
+                    "name": "N",
+                    "usage": "10",
+                    "usage_unit": "kg"
+                },
+                {
+                    "name": "P2O5",
+                    "usage": "15",
+                    "usage_unit": "kg"
+                },
+                {
+                    "name": "K2O",
+                    "usage": "10",
+                    "usage_unit": "kg"
+                }
+            ],
+            "number_of_workers": 2,
+            "total_number_of_hours": 4.0,
+            "cost": null,
+            "note": ""
+        },
+        {
+            "name": "うね立て\nは種",
+            "description": "",
+            "eqiupments": [
+                {
+                    "name": "播種機",
+                    "hour": 12.0
+                }
+            ],
+            "materials": [
+                {
+                    "name": "コート種子",
+                    "usage": "2.5万",
+                    "usage_unit": "粒"
+                },
+                {
+                    "name": "シーダーテープ",
+                    "usage": "1600",
+                    "usage_unit": "m"
+                }
+            ],
+            "number_of_workers": 2,
+            "total_number_of_hours": 12.0,
+            "cost": null,
+            "note": "うね幅180cm×株間25～28cm(4条)。10a当り8,000～8,900株。"
+        },
+        {
+            "name": "かん水",
+            "description": "かん水施設設置",
+            "eqiupments": [
+                {
+                    "name": "スプリンクラー",
+                    "hour": 16.0
+                }
+            ],
+            "materials": null,
+            "number_of_workers": 2,
+            "total_number_of_hours": 16.0,
+            "cost": null,
+            "note": ""
+        },
+        {
+            "name": "除草",
+            "description": "除草剤散布",
+            "eqiupments": [
+                {
+                    "name": "動力噴霧機",
+                    "hour": 1.0
+                }
+            ],
+            "materials": [
+                {
+                    "name": "除草剤",
+                    "usage": "",
+                    "usage_unit": ""
+                }
+            ],
+            "number_of_workers": 1,
+            "total_number_of_hours": 1.0,
+            "cost": null,
+            "note": "〇〇雑草防除基準による適正使用。"
+        },
+        {
+            "name": "間引き",
+            "description": "",
+            "eqiupments": null,
+            "materials": [
+                {
+                    "name": "ハサミ",
+                    "usage": "",
+                    "usage_unit": ""
+                }
+            ],
+            "number_of_workers": 2,
+            "total_number_of_hours": 10.0,
+            "cost": null,
+            "note": "第1回：本葉2～3枚時に生育不良株・病害虫被害株を除く。\n第2回：本葉6～7枚で1本に定める。"
+        },
+        {
+            "name": "追肥・土寄せ",
+            "description": "",
+            "eqiupments": [
+                {
+                    "name": "管理機",
+                    "hour": 2.0
+                }
+            ],
+            "materials": null,
+            "number_of_workers": 1,
+            "total_number_of_hours": 2.0,
+            "cost": null,
+            "note": "間引き終了後"
+        },
+        {
+            "name": "病害虫防除",
+            "description": "薬剤散布",
+            "eqiupments": [
+                {
+                    "name": "動力噴霧機",
+                    "hour": null
+                },
+                {
+                    "name": "トラック",
+                    "hour": null
+                }
+            ],
+            "materials": [
+                {
+                    "name": "殺菌剤・殺虫剤",
+                    "usage": "",
+                    "usage_unit": ""
+                },
+                {
+                    "name": "防除タンク",
+                    "usage": "",
+                    "usage_unit": ""
+                }
+            ],
+            "number_of_workers": 2,
+            "total_number_of_hours": 8.0,
+            "cost": null,
+            "note": "〇〇病害虫防除基準による適正防除。"
+        },
+        {
+            "name": "収穫・出荷",
+            "description": "",
+            "eqiupments": [
+                {
+                    "name": "運搬車",
+                    "hour": null
+                },
+                {
+                    "name": "トラック",
+                    "hour": null
+                }
+            ],
+            "materials": null,
+            "number_of_workers": 2,
+            "total_number_of_hours": 32.0,
+            "cost": null,
+            "note": "共同選果施設の利用。"
+        },
+        {
+            "name": "後かたづけ",
+            "description": "",
+            "eqiupments": [
+                {
+                    "name": "トラック",
+                    "hour": 6.0
+                }
+            ],
+            "materials": null,
+            "number_of_workers": 2,
+            "total_number_of_hours": 6.0,
+            "cost": null,
+            "note": ""
+        }
+    ]
+}

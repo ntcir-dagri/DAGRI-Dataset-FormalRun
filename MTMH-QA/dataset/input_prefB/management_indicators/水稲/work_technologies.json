@@ -1,0 +1,256 @@
+{
+  "items": [
+    {
+      "name": "品種の選定",
+      "description": "①種子注文",
+      "equipments": null,
+      "materials": [
+        {
+          "name": "種籾",
+          "usage": 4,
+          "usage_unit": "kg"
+        }
+      ],
+      "number_of_workers": null,
+      "total_number_of_hours": null,
+      "cost": null,
+      "note": "種子更新に努める。"
+    },
+    {
+      "name": "種子の予措",
+      "description": "\"①比重選\n②種子消毒\n③浸種\n④催芽\"",
+      "equipments": [
+        {
+          "name": "",
+          "hour": 0.3
+        }
+      ],
+      "materials": [
+        {
+          "name": "\"食塩",
+          "usage": "",
+          "usage_unit": null
+        },
+        {
+          "name": "種子消毒剤\"",
+          "usage": "",
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.3,
+      "cost": null,
+      "note": "\"『〇〇病害虫防除基準』参照種籾4㎏\nに対し20㍑程度を目安に、1日1回\n水を取りかえる。\n催芽はハト胸状態までとする。\""
+    },
+    {
+      "name": "育苗",
+      "description": "\"①床土準備\n②播種\n③緑化\n④硬化\n⑤潅水他\n⑥箱施薬\"",
+      "equipments": [
+        {
+          "name": "播種機",
+          "hour": 3.0
+        }
+      ],
+      "materials": [
+        {
+          "name": "育苗箱",
+          "usage": "",
+          "usage_unit": null
+        },
+        {
+          "name": "稚苗:10個",
+          "usage": "",
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 2,
+      "total_number_of_hours": 3.0,
+      "cost": null,
+      "note": "\"PH5～5.5調整の市販品を使用。\n昼間の高温、夜間の低温に注意\nし、夕方の潅水は避ける。\n高密度播種での試算\""
+    },
+    {
+      "name": "施肥",
+      "description": "①土壌改良資材施用",
+      "equipments": [
+        {
+          "name": "トラクター、ブロードキャスター",
+          "hour": 0.2
+        }
+      ],
+      "materials": [
+        {
+          "name": "土壌改良資材",
+          "usage": "",
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 2,
+      "total_number_of_hours": 0.2,
+      "cost": null,
+      "note": "施肥基準参照"
+    },
+    {
+      "name": "耕起・整地",
+      "description": "①耕起",
+      "equipments": [
+        {
+          "name": "トラクター、ロータリー",
+          "hour": 0.6
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.6,
+      "cost": null,
+      "note": "麦収穫後できるだけ早く実施する。"
+    },
+    {
+      "name": "耕起・整地",
+      "description": "①代掻き(荒代)",
+      "equipments": [
+        {
+          "name": "トラクター、代かきハロー",
+          "hour": 0.3
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.3,
+      "cost": null,
+      "note": "\"浅水にして麦わらを土中に埋込み、\n田面の均平を図る\""
+    },
+    {
+      "name": "耕起・整地",
+      "description": "②代掻き(植代)",
+      "equipments": [
+        {
+          "name": "トラクター、代かきハロー",
+          "hour": 0.3
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.3,
+      "cost": null,
+      "note": "\"浅水にして麦わらを土中に埋込み、\n田面の均平を図る\""
+    },
+    {
+      "name": "移植・施肥・除草",
+      "description": "①田植え",
+      "equipments": [
+        {
+          "name": "田植機(側条施肥)",
+          "hour": 1.2
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 1.2,
+      "cost": null,
+      "note": "\"緩効性肥料を側条施肥\n移植同時施薬（除草剤）\""
+    },
+    {
+      "name": "病害虫防除",
+      "description": "①農薬散布",
+      "equipments": null,
+      "materials": [
+        {
+          "name": "農薬",
+          "usage": "",
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": null,
+      "total_number_of_hours": null,
+      "cost": null,
+      "note": "無人ヘリ・ドローンへの委託防除"
+    },
+    {
+      "name": "病害虫防除",
+      "description": "②農薬散布",
+      "equipments": null,
+      "materials": [
+        {
+          "name": "農薬",
+          "usage": "",
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": null,
+      "total_number_of_hours": null,
+      "cost": null,
+      "note": "無人ヘリ・ドローンへの委託防除"
+    },
+    {
+      "name": "病害虫防除",
+      "description": "③農薬散布",
+      "equipments": null,
+      "materials": [
+        {
+          "name": "農薬",
+          "usage": "",
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": null,
+      "total_number_of_hours": null,
+      "cost": null,
+      "note": "無人ヘリ・ドローンへの委託防除"
+    },
+    {
+      "name": "管理（水・畦畔）",
+      "description": "\"①間断潅水\n②中干し\n③落水\n④畦草刈\"",
+      "equipments": [
+        {
+          "name": "トラック、草刈り機",
+          "hour": 6.0
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 6.0,
+      "cost": null,
+      "note": "\"高温時は掛流し潅水とする\n目標茎数8割程度で実施。\n早期落水防止。\""
+    },
+    {
+      "name": "収穫",
+      "description": "①刈取り",
+      "equipments": [
+        {
+          "name": "自脱型コンバイン",
+          "hour": 0.7
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.7,
+      "cost": null,
+      "note": "\"適期刈取。生籾長時間放置禁止。\n稲わら全量土壌還元又は堆肥化促進。\""
+    },
+    {
+      "name": "収穫",
+      "description": "②運搬",
+      "equipments": [
+        {
+          "name": "トラック",
+          "hour": 0.7
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.7,
+      "cost": null,
+      "note": "\"適期刈取。生籾長時間放置禁止。\n稲わら全量土壌還元又は堆肥化促進。\""
+    },
+    {
+      "name": "乾燥･調製",
+      "description": "①共乾施設",
+      "equipments": null,
+      "materials": null,
+      "number_of_workers": null,
+      "total_number_of_hours": null,
+      "cost": null,
+      "note": "共同乾燥施設利用"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+    "prefecture_name": "自治体B",
+    "area_name": null,
+    "crop_names": [
+        "春はくさい",
+        "春にんじん",
+        "冬にんじん",
+        "秋冬だいこん",
+        "春だいこん"
+    ],
+    "cultivate_land": 350,
+    "cultivate_land_unit": "a",
+    "borrowed_cultivate_land": 100,
+    "owned_cultivate_land": 250,
+    "labor_raw": "3",
+    "labors": 3,
+    "total_income": 5029000,
+    "total_labor_hours": 5460,
+    "note": "１．春はくさい、春にんじん、春だいこんはトンネル栽培\n２．にんじんの収穫は一部委託作業"
+}

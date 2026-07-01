@@ -1,0 +1,227 @@
+{
+  "items": [
+    {
+      "name": "耕転・整地",
+      "description": "耕起・整地",
+      "equipments":[
+        {
+          "name": "堆肥散布機、トラクター",
+          "hour": 4
+        }
+      ],
+      "materials": [
+        {
+          "name": "堆肥",
+          "usage": 2000,
+          "usage_unit": "kg"
+        }
+      ],
+      "number_of_workers": 2,
+      "total_number_of_hours": 4,
+      "cost": null,
+      "note": "有機物は前作に多用しておく。施用する場合は完熟堆肥を用いる。発芽揃いを良くし、岐根を少なくするよう丁寧に耕起砕土を行う。"
+    },
+    {
+      "name": "土壌消毒",
+      "description": "薬剤処理、ガス抜き",
+      "equipments": [
+        {
+          "name": "土壌消毒機、トラクター",
+          "hour": 4
+        }
+      ],
+      "materials": [
+        {
+          "name": "土壌消毒剤",
+          "usage": "",
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 2,
+      "total_number_of_hours": 4,
+      "cost": null,
+      "note": "播種10日前にはガス抜きを終える。"
+    },
+    {
+      "name": "施肥",
+      "description": "基肥施用",
+      "equipments": [
+        {
+          "name": "トラクター、管理機",
+          "hour": 4
+        }
+      ],
+      "materials": [
+        {
+          "name": "石灰質資材",
+          "usage": 120,
+          "usage_unit": "kg"
+        },
+        {
+          "name": "10a当たり成分 N",
+          "usage": 10,
+          "usage_unit": "kg"
+        },
+        {
+          "name": "10a当たり成分 P_2O_6",
+          "usage": 14,
+          "usage_unit": "kg"
+        },
+        {
+          "name": "10a当たり成分 K_2O",
+          "usage": 10,
+          "usage_unit": "kg"
+        }
+      ],
+      "number_of_workers": 2,
+      "total_number_of_hours": 4,
+      "cost": null,
+      "note": "全量基肥を原則とする。\n追肥は必要に応じて行う。）"
+    },
+    {
+      "name": "播種",
+      "description": "",
+      "equipments": [
+        {
+          "name": "播種機",
+          "hour": 4
+        }
+      ],
+      "materials": [
+        {
+          "name": "コート種子",
+          "usage": 10,
+          "usage_unit": "万粒"
+        },
+        {
+          "name": "切りワラ",
+          "usage": "",
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 2,
+      "total_number_of_hours": 4,
+      "cost": null,
+      "note": "播種密度は、播種時期・品種に応じて調整する。\n（目安）畝間60cm×株間４cm（２条）\n重粘土壌畑は播種後切りワラをかぶせる。"
+    },
+    {
+      "name": "除草",
+      "description": "除草剤散布",
+      "equipments": [
+        {
+          "name": "動力噴霧機",
+          "hour": 2
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 2,
+      "total_number_of_hours": 2,
+      "cost": null,
+      "note": ""
+    },
+    {
+      "name": "かん水",
+      "description": "かん水施設設置",
+      "equipments": null,
+      "materials": [
+        {
+          "name": "かん水チューブ",
+          "usage": "",
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 2,
+      "total_number_of_hours": 15,
+      "cost": null,
+      "note": "播種時のかん水により発芽を促し、生育前半は乾燥させないよう適宜かん水する。\n生育中期以降の水分過多は、品質低下につながる。"
+    },
+    {
+      "name": "間引き",
+      "description": "",
+      "equipments": null,
+      "materials": null,
+      "number_of_workers": 3,
+      "total_number_of_hours": 24,
+      "cost": null,
+      "note": "間引きは２回程度行い、３～５葉期までに１本仕立て（適正株間）にする。"
+    },
+    {
+      "name": "土寄せ",
+      "description": "中耕・培土",
+      "equipments": [
+        {
+          "name": "管理機",
+          "hour": 3
+        }
+      ],
+      "materials": [
+        {
+          "name": "鍬",
+          "usage": "",
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 3,
+      "cost": null,
+      "note": "肩部の緑化防止"
+    },
+    {
+      "name": "病害虫防除",
+      "description": "薬剤散布",
+      "equipments": [
+        {
+          "name": "動力噴霧機、トラック",
+          "hour": 10
+        }
+      ],
+      "materials": [
+        {
+          "name": "殺菌剤・殺虫剤防除タンク",
+          "usage": "",
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 2,
+      "total_number_of_hours": 10,
+      "cost": null,
+      "note": "『〇〇病害虫防除基準』参照"
+    },
+    {
+      "name": "収穫・出荷",
+      "description": "",
+      "equipments": [
+        {
+          "name": "掘取機、運搬車、トラック",
+          "hour": 24
+        }
+      ],
+      "materials": [
+        {
+          "name": "包丁、コンテナ",
+          "usage": "",
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 3,
+      "total_number_of_hours": 24,
+      "cost": null,
+      "note": "M級中心の適期収穫に努める。\n委託掘り取りの利用（全体の半分）\n選果施設へ出荷する。"
+    },
+    {
+      "name": "後かたづけ",
+      "description": "",
+      "equipments": [
+        {
+          "name": "トラック",
+          "hour": 6
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 2,
+      "total_number_of_hours": 6,
+      "cost": null,
+      "note": ""
+    }
+  ]
+}

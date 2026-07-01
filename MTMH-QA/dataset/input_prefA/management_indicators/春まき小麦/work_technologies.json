@@ -1,0 +1,252 @@
+{
+  "items": [
+    {
+      "name": "堆肥散布（前年）",
+      "description": null,
+      "equipments": [
+        {
+          "name": "マニュアスプレッダー、フロントローダー",
+          "hour": 0.25
+        },
+        {
+          "name": "ブロードキャスター",
+          "hour": 0.11
+        },
+        {
+          "name": "マニュアスプレッダー、フロントローダー",
+          "hour": 0.36
+        }
+      ],
+      "materials": [
+        {
+          "name": "海鮮ユーラップ",
+          "usage": 660,
+          "usage_unit": "kg/10a"
+        },
+        {
+          "name": "発酵鶏ふん",
+          "usage": 65.5,
+          "usage_unit": "kg/10a"
+        },
+        {
+          "name": "豚ぷん",
+          "usage": 1270,
+          "usage_unit": "kg/10a"
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.69,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "堆肥散布",
+      "description": null,
+      "equipments": [
+        {
+          "name": "マニュアスプレッダー、フロントローダー",
+          "hour": 0.25
+        }
+      ],
+      "materials": [
+        {
+          "name": "豚ぷん",
+          "usage": 730,
+          "usage_unit": "kg/10a"
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.25,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "心土破砕",
+      "description": null,
+      "equipments": [
+        {
+          "name": "サブソイラー",
+          "hour": 0.06
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.06,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "耕起",
+      "description": null,
+      "equipments": [
+        {
+          "name": "チゼル",
+          "hour": 0.17
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.17,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "施肥",
+      "description": null,
+      "equipments": [
+        {
+          "name": "ブロードキャスター",
+          "hour": 0.12
+        }
+      ],
+      "materials": [
+        {
+          "name": "発酵鶏ふん",
+          "usage": 76.8,
+          "usage_unit": "kg/10a"
+        }
+      ],
+      "number_of_workers": null,
+      "total_number_of_hours": null,
+      "cost": null,
+      "note": "有機肥料（注参照）注１）「有機肥料」とは有機JAS規格の別表１に該当する肥料のことである。堆肥も同様。" 
+    },
+    {
+      "name": "砕土・整地",
+      "description": null,
+      "equipments": [
+        {
+          "name": "ロータリーハロー",
+          "hour": 0.24
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.24,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "播種",
+      "description": null,
+      "equipments": [
+        {
+          "name": "グレンドリル12条",
+          "hour": 0.12
+        }
+      ],
+      "materials": [
+        {
+          "name": "はるきらり",
+          "usage": 15.5,
+          "usage_unit": "kg/10a"
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.12,
+      "cost": null,
+      "note": "種子"
+    },
+    {
+      "name": "鎮圧",
+      "description": null,
+      "equipments": [
+        {
+          "name": "鎮圧ローラー",
+          "hour": 0.08
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.08,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "収穫・運搬",
+      "description": null,
+      "equipments": [
+        {
+          "name": "自走式汎用コンバイン（フレコンバッグ）",
+          "hour": 0.39
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.39,
+      "cost": null,
+      "note": "フレコンバッグ積み、即出荷"
+    },
+    {
+      "name": "乾燥・出荷",
+      "description": null,
+      "equipments": null,
+      "materials": null,
+      "number_of_workers": null,
+      "total_number_of_hours": null,
+      "cost": null,
+      "note": "業者への委託"
+    },
+    {
+      "name": "茎葉処理",
+      "description": null,
+      "equipments": [
+        {
+          "name": "ストローチョッパー",
+          "hour": 0.24
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.24,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "堆肥散布",
+      "description": null,
+      "equipments": [
+        {
+          "name": "ブロードキャスター",
+          "hour": 0.06
+        }
+      ],
+      "materials": [
+        {
+          "name": "発酵鶏ふん",
+          "usage" : 37.9,
+          "usage_unit": "kg/10a"
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.06,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "残渣腐熟",
+      "description": null,
+      "equipments": [
+        {
+          "name": "ロータリーハロー",
+          "hour": 0.24
+        },
+        {
+          "name": "ブロードキャスター",
+          "hour": 0.23
+        }
+      ],
+      "materials": [
+        {
+          "name": "発酵鶏ふん",
+          "usage" : 100,
+          "usage_unit": "kg/10a"
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.37,
+      "cost": null,
+      "note": null
+    }
+  ]
+}

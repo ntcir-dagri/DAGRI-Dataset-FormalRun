@@ -1,0 +1,269 @@
+{
+  "items": [
+    {
+      "name": "播種",
+      "description": "育苗ハウス、寒冷紗被覆での播種・育苗",
+      "eqiupments": [
+        {
+          "name": "トラック",
+          "hour": 6.0
+        },
+        {
+          "name": "播種機",
+          "hour": 6.0
+        }
+      ],
+      "materials": [
+        {
+          "name": "種子",
+          "usage": null,
+          "usage_unit": null
+        },
+        {
+          "name": "寒冷紗",
+          "usage": null,
+          "usage_unit": null
+        },
+        {
+          "name": "トレイ（128穴）",
+          "usage": null,
+          "usage_unit": null
+        },
+        {
+          "name": "専用培土",
+          "usage": null,
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 2,
+      "total_number_of_hours": 6.0,
+      "cost": null,
+      "note": "高温と乾燥対策が必要。トレイは浮かせる。深植にならないよう注意する。"
+    },
+    {
+      "name": "管理（かん水）",
+      "description": "育苗期のかん水管理",
+      "eqiupments": [
+        {
+          "name": "かん水施設",
+          "hour": 6.0
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 6.0,
+      "cost": null,
+      "note": "乾燥に注意する。"
+    },
+    {
+      "name": "病害虫防除（育苗）",
+      "description": "薬剤散布",
+      "eqiupments": [
+        {
+          "name": "動力噴霧機",
+          "hour": 1.0
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 1.0,
+      "cost": null,
+      "note": "県病害虫防除基準による。"
+    },
+    {
+      "name": "（本ぽ）耕うん・整地",
+      "description": "耕起・整地",
+      "eqiupments": [
+        {
+          "name": "トラクター",
+          "hour": 4.0
+        }
+      ],
+      "materials": [
+        {
+          "name": "堆肥",
+          "usage": "2",
+          "usage_unit": "t"
+        },
+        {
+          "name": "石灰質資材",
+          "usage": "100",
+          "usage_unit": "kg"
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 4.0,
+      "cost": null,
+      "note": "深耕及び有機質の多用。"
+    },
+    {
+      "name": "施肥（基肥施用）",
+      "description": "基肥施用（N、P2O5、K2O等）",
+      "eqiupments": [
+        {
+          "name": "トラクター",
+          "hour": 2.0
+        }
+      ],
+      "materials": [
+        {
+          "name": "N",
+          "usage": "20",
+          "usage_unit": "kg"
+        },
+        {
+          "name": "P2O5",
+          "usage": "25",
+          "usage_unit": "kg"
+        },
+        {
+          "name": "K2O",
+          "usage": "30",
+          "usage_unit": "kg"
+        }
+      ],
+      "number_of_workers": 2,
+      "total_number_of_hours": 2.0,
+      "cost": null,
+      "note": "N分施の割合（基肥60％、追肥40％）。"
+    },
+    {
+      "name": "定植準備（畦立て）",
+      "description": "畦立て等の定植準備",
+      "eqiupments": [
+        {
+          "name": "トラクター",
+          "hour": 1.0
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 1.0,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "定植",
+      "description": "移植（移植機・トラックによる定植）",
+      "eqiupments": [
+        {
+          "name": "移植機",
+          "hour": 4.0
+        },
+        {
+          "name": "トラック",
+          "hour": 4.0
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 2,
+      "total_number_of_hours": 4.0,
+      "cost": null,
+      "note": "栽植密度：1.4m×35cm（2条）、4,000株。本葉3～4枚時に定植する。"
+    },
+    {
+      "name": "除草",
+      "description": "除草剤散布による除草",
+      "eqiupments": [
+        {
+          "name": "動力噴霧機",
+          "hour": 2.0
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 2,
+      "total_number_of_hours": 2.0,
+      "cost": null,
+      "note": "県雑草防除基準による。"
+    },
+    {
+      "name": "施肥",
+      "description": "追肥の施用",
+      "eqiupments": [
+        {
+          "name": "トラクター",
+          "hour": 4.0
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 2,
+      "total_number_of_hours": 4.0,
+      "cost": null,
+      "note": "N分施の割合（基肥60％、追肥40％）。追肥は定植後15～20日と30～40日後の2回施用。"
+    },
+    {
+      "name": "かん水",
+      "description": "",
+      "eqiupments": null,
+      "materials": null,
+      "number_of_workers": 2,
+      "total_number_of_hours": 8.0,
+      "cost": null,
+      "note": "活着のため十分かん水する。"
+    },
+    {
+      "name": "土寄せ",
+      "description": "",
+      "eqiupments": [
+        {
+          "name": "管理機",
+          "hour": 2.0
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 2.0,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "病害虫防除",
+      "description": "薬剤散布",
+      "eqiupments": [
+        {
+          "name": "動力噴霧機",
+          "hour": 6.0
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 2,
+      "total_number_of_hours": 6.0,
+      "cost": null,
+      "note": "使用薬剤及び使用方法は県病害虫防除基準による。"
+    },
+    {
+      "name": "収穫出荷",
+      "description": "",
+      "eqiupments": [
+        {
+          "name": "トラック",
+          "hour": 42.0
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 3,
+      "total_number_of_hours": 42.0,
+      "cost": null,
+      "note": "花蕾の肥大が止まらない期間（やや若採り）に収穫する。"
+    },
+    {
+      "name": "後片付け",
+      "description": "圃場の後片付け",
+      "eqiupments": [
+        {
+          "name": "トラック",
+          "hour": 6.0
+        },
+        {
+          "name": "トラクター",
+          "hour": 6.0
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 2,
+      "total_number_of_hours": 6.0,
+      "cost": null,
+      "note": null
+    }
+  ]
+}

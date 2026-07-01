@@ -1,0 +1,308 @@
+{
+  "items": [
+    {
+      "name": "育苗ハウス準備",
+      "description": null,
+      "equipments": [
+        {
+          "name": "除雪機",
+          "hour": 4.0
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 4.0,
+      "cost": null,
+      "note": "除雪、ビニール（年間被覆）"
+    },
+    {
+      "name": "は種床準備、は種",
+      "description": null,
+      "equipments": [
+        {
+          "name": "播種盤",
+          "hour": 10.0
+        },
+        {
+          "name": "温熱マット線",
+          "hour": 10.0
+        }
+      ],
+      "materials": [
+        {
+          "name": "種子",
+          "usage": "1500",
+          "usage_unit": "粒"
+        },
+        {
+          "name": "セルトレイ（自家培土）",
+          "usage": "18",
+          "usage_unit": "枚"         
+        }        
+      ],
+      "number_of_workers": 2,
+      "total_number_of_hours": 10.0,
+      "cost": null,
+      "note": "土詰めからの一連の作業"
+    },
+    {
+      "name": "育苗管理",
+      "description": "ハウス開閉、潅水",
+      "equipments": [
+        {
+          "name": "潅水ポンプ",
+          "hour": 50.0
+        }
+      ],
+      "materials": [
+        {
+          "name": "水道水",
+          "usage": null,
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 2,
+      "total_number_of_hours": 60.0,
+      "cost": null,
+      "note": "潅水、温度管理、他"
+    },
+    {
+      "name": "鉢上げ、鉢ずらし",
+      "description": null,
+      "equipments": null,
+      "materials": [
+        {
+          "name": "ポリポット",
+          "usage": "1000",
+          "usage_unit": "個"
+        }
+      ],
+      "number_of_workers": 2,
+      "total_number_of_hours": 18.0,
+      "cost": null,
+      "note": "土詰め、移植、ずらし"
+    },
+    {
+      "name": "ハウス準備",
+      "description": null,
+      "equipments": null,
+      "materials": [
+        {
+          "name": "農PO",
+          "usage": null,
+          "usage_unit": null
+        },
+        {
+          "name": "防虫ネット（赤）",
+          "usage": null,
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 2,
+      "total_number_of_hours": 18.0,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "定植準備",
+      "description": "耕起、施肥、畝立て、潅水チューブ、マルチ設置",
+      "equipments": [
+        {
+          "name": "管理機",
+          "hour": 20.0
+        },
+        {
+          "name": "マルチャー",
+          "hour": 20.0
+        }
+      ],
+      "materials": [
+        {
+          "name": "豚ぷん堆肥 他　*注",
+          "usage": null,
+          "usage_unit": null
+        },
+        {
+          "name": "マルチフィルム",
+          "usage": "400",
+          "usage_unit": "m"  
+        },
+        {
+          "name": "防草シート",
+          "usage": null,
+          "usage_unit": null  
+        },
+        {
+          "name": "潅水チューブ",
+          "usage": "1400",
+          "usage_unit": "m"  
+        }
+      ],
+      "number_of_workers": 2,
+      "total_number_of_hours": 20.0,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "定植",
+      "description": null,
+      "equipments": null,
+      "materials": null,
+      "number_of_workers": 2,
+      "total_number_of_hours": 18,
+      "cost": null,
+      "note": "苗植え 1000株/10a"
+    },
+    {
+      "name": "支柱たて、トンネル設置",
+      "description": null,
+      "equipments": null,
+      "materials": [
+        {
+          "name": "直管",
+          "usage": "90",
+          "usage_unit": "本"
+        }        
+      ],
+      "number_of_workers": 2,
+      "total_number_of_hours": 20.0,
+      "cost": null,
+      "note": "支柱用"
+    },
+    {
+      "name": "誘引ひも設置",
+      "description": null,
+      "equipments": null,
+      "materials": [
+        {
+          "name": "ひも",
+          "usage": null,
+          "usage_unit": null
+        }       
+      ],
+      "number_of_workers": 2,
+      "total_number_of_hours": 32.0,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "かん水、温度管理",
+      "description": null,
+      "equipments": [
+        {
+          "name": "潅水ポンプ",
+          "hour": 28.0
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 28.0,
+      "cost": null,
+      "note": null
+    },  
+    {
+      "name": "整枝",
+      "description": "誘引",
+      "equipments": null,
+      "materials": [
+        {
+          "name": "テープナー",
+          "usage": null,
+          "usage_unit": null
+        }      
+      ],
+      "number_of_workers": 2,
+      "total_number_of_hours": 250.0,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "追肥",
+      "description": null,
+      "equipments": [
+        {
+          "name": "潅水ポンプ",
+          "hour": 10.0
+        }
+      ],
+      "materials": [
+        {
+          "name": "オーガニックリキッド他",
+          "usage": null,
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 8.0,
+      "cost": null,
+      "note": "潅水同時"
+    },
+    {
+      "name": "除草",
+      "description": null,
+      "equipments": null,
+      "materials": null,
+      "number_of_workers": 2,
+      "total_number_of_hours": 20.0,
+      "cost": null,
+      "note": "手取り"
+    },
+    {
+      "name": "病害虫防除",
+      "description": null,
+      "equipments": [
+        {
+          "name": "移動式噴霧器（50Lタンク+ポンプ+50mホース）",
+          "hour": 20.0
+        }
+      ],
+      "materials": [
+        {
+          "name": "ポトキラー他",
+          "usage": null,
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 20.0,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "収穫",
+      "description": null,
+      "equipments": null,
+      "materials": null,
+      "number_of_workers": 2,
+      "total_number_of_hours": 380.0,
+      "cost": null,
+      "note": "雇用10/中まで"
+    },
+    {
+      "name": "調整・選果・出荷",
+      "description": null,
+      "equipments": null,
+      "materials": [
+        {
+          "name": "5kgダンボール",
+          "usage": "1600",
+          "usage_unit": "個"
+        }
+      ],
+      "number_of_workers": 2,
+      "total_number_of_hours": 450.0,
+      "cost": null,
+      "note": "個選 8,000kg/10a 有機農協他"
+    },
+    {
+      "name": "あとかたづけ",
+      "description": null,
+      "equipments": null,
+      "materials": null,
+      "number_of_workers": 2,
+      "total_number_of_hours": 20.0,
+      "cost": null,
+      "note": null
+    }
+  ]
+}

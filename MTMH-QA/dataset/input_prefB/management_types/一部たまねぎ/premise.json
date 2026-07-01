@@ -1,0 +1,16 @@
+{
+  "prefecture_name": null,
+  "area_name": null,
+  "crop_names": [
+    "普通たまねぎ"
+  ],
+  "cultivate_land": 220,
+  "cultivate_land_unit": "a",
+  "borrowed_cultivate_land": null,
+  "owned_cultivate_land": null,
+  "labor_raw": "2",
+  "labors": 2,
+  "total_income": 600000,
+  "total_labor_hours": 853.8,
+  "note": "1. 機械移植等の機械化体系導入、共同利用"
+}

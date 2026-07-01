@@ -1,0 +1,65 @@
+{
+  "items": [
+    {
+      "name": "種子予措",
+      "period": "7月上旬",
+      "hours": 0.3
+    },
+    {
+      "name": "排水対策",
+      "period": "6月下旬",
+      "hours": 0.5
+    },
+    {
+      "name": "排水対策",
+      "period": "7月上旬",
+      "hours": 0.2
+    },
+    {
+      "name": "除草",
+      "period": "7月上旬",
+      "hours": 0.1
+    },
+    {
+      "name": "施肥は種",
+      "period": "7月中旬",
+      "hours": 1.0
+    },
+    {
+      "name": "除草",
+      "period": "7月中旬",
+      "hours": 0.2
+    },
+    {
+      "name": "中耕",
+      "period": "7月下旬",
+      "hours": 0.5
+    },
+    {
+      "name": "中耕",
+      "period": "8月上旬",
+      "hours": 0.4
+    },
+    {
+      "name": "防除",
+      "period": "8月上旬",
+      "hours": 0.2
+    },
+    {
+      "name": "防除",
+      "period": "8月中旬",
+      "hours": 0.2
+    },
+    {
+      "name": "防除",
+      "period": "9月中旬",
+      "hours": 0.2
+    },
+    {
+      "name": "収穫・運搬",
+      "period": "11月上旬",
+      "hours": 1.7
+    }
+  ],
+  "term_unit": "上中下旬"
+}

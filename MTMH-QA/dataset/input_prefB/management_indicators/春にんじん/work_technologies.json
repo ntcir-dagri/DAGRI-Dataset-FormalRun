@@ -1,0 +1,267 @@
+{
+    "items": [
+        {
+            "name": "耕転・整地",
+            "description": "耕起、整地",
+            "eqiupments": [
+                {
+                    "name": "トラクター",
+                    "hour": null
+                },
+                {
+                    "name": "堆肥散布機",
+                    "hour": null
+                }
+            ],
+            "materials": [
+                {
+                    "name": "堆肥",
+                    "usage": "2,000",
+                    "usage_unit": "kg"
+                }
+            ],
+            "number_of_workers": 2,
+            "total_number_of_hours": 5.0,
+            "cost": null,
+            "note": "有機物は前作に多用しておく。施用する場合は完熟堆肥を用いる。発芽揃いを良くし、成長を少なくするよう丁寧に耕起整土を行う。"
+        },
+        {
+            "name": "土壌消毒",
+            "description": "センチュウ防除、ガス抜き",
+            "eqiupments": [
+                {
+                    "name": "土壌消毒機",
+                    "hour": null
+                },
+                {
+                    "name": "トラクター",
+                    "hour": null
+                }
+            ],
+            "materials": [
+                {
+                    "name": "土壌消毒剤",
+                    "usage": "",
+                    "usage_unit": ""
+                }
+            ],
+            "number_of_workers": 2,
+            "total_number_of_hours": 5.0,
+            "cost": null,
+            "note": "は種10日前にはガス抜きを終える。"
+        },
+        {
+            "name": "施肥",
+            "description": "全量基肥",
+            "eqiupments": [
+                {
+                    "name": "トラクター",
+                    "hour": 4.0
+                }
+            ],
+            "materials": [
+                {
+                    "name": "石灰質資材",
+                    "usage": "150",
+                    "usage_unit": "kg"
+                },
+                {
+                    "name": "N",
+                    "usage": "16",
+                    "usage_unit": "kg"
+                },
+                {
+                    "name": "P2O5",
+                    "usage": "25",
+                    "usage_unit": "kg"
+                },
+                {
+                    "name": "K2O",
+                    "usage": "15",
+                    "usage_unit": "kg"
+                }
+            ],
+            "number_of_workers": 2,
+            "total_number_of_hours": 4.0,
+            "cost": null,
+            "note": ""
+        },
+        {
+            "name": "は種",
+            "description": "",
+            "eqiupments": [
+                {
+                    "name": "畝立マルチシーダー",
+                    "hour": 8.0
+                }
+            ],
+            "materials": [
+                {
+                    "name": "コート種子",
+                    "usage": "9～13万粒",
+                    "usage_unit": "粒"
+                },
+                {
+                    "name": "（シーダーテープの場合）",
+                    "usage": "3000～4500",
+                    "usage_unit": "m"
+                }
+            ],
+            "number_of_workers": 2,
+            "total_number_of_hours": 7.0,
+            "cost": null,
+            "note": "うね幅160cm、8条（2条播き×4）、株間4～5cm等。"
+        },
+        {
+            "name": "除草",
+            "description": "除草剤散布",
+            "eqiupments": [
+                {
+                    "name": "動力噴霧機",
+                    "hour": 2.0
+                }
+            ],
+            "materials": [
+                {
+                    "name": "除草剤",
+                    "usage": "",
+                    "usage_unit": ""
+                }
+            ],
+            "number_of_workers": 2,
+            "total_number_of_hours": 2.0,
+            "cost": null,
+            "note": "〇〇雑草防除基準による適正使用。"
+        },
+        {
+            "name": "間引き",
+            "description": "",
+            "eqiupments": [],
+            "materials": [],
+            "number_of_workers": 4,
+            "total_number_of_hours": 28.0,
+            "cost": null,
+            "note": "間引きは2回程度行い、5～6葉期までに1本仕立て（株間10cm程度）にする。株立ち数3.5～4.5万株。"
+        },
+        {
+            "name": "トンネル被覆",
+            "description": "",
+            "eqiupments": null,
+            "materials": [
+                {
+                    "name": "トンネルビニール",
+                    "usage": "",
+                    "usage_unit": ""
+                },
+                {
+                    "name": "トンネル支柱",
+                    "usage": "",
+                    "usage_unit": ""
+                }
+            ],
+            "number_of_workers": 3,
+            "total_number_of_hours": 24.0,
+            "cost": null,
+            "note": ""
+        },
+        {
+            "name": "温度管理",
+            "description": "換気、ならし",
+            "eqiupments": null,
+            "materials": [],
+            "number_of_workers": 1,
+            "total_number_of_hours": 10.0,
+            "cost": null,
+            "note": "トンネル内の温度が30°C以上にならないよう換気する。トンネル除去7～10日前から強い換気をして外気にならす。"
+        },
+        {
+            "name": "トンネル除去",
+            "description": "",
+            "eqiupments": null,
+            "materials": [],
+            "number_of_workers": 2,
+            "total_number_of_hours": 7.0,
+            "cost": null,
+            "note": ""
+        },
+        {
+            "name": "病害虫防除",
+            "description": "薬剤散布",
+            "eqiupments": [
+                {
+                    "name": "動力噴霧機",
+                    "hour": null
+                },
+                {
+                    "name": "トラック",
+                    "hour": null
+                }
+            ],
+            "materials": [
+                {
+                    "name": "殺菌剤・殺虫剤",
+                    "usage": "",
+                    "usage_unit": ""
+                },
+                {
+                    "name": "防除タンク",
+                    "usage": "",
+                    "usage_unit": ""
+                }
+            ],
+            "number_of_workers": 2,
+            "total_number_of_hours": 13.0,
+            "cost": null,
+            "note": "〇〇病害虫防除基準による適正防除。"
+        },
+        {
+            "name": "収穫・出荷",
+            "description": "",
+            "eqiupments": [
+                {
+                    "name": "収穫機",
+                    "hour": null
+                },
+                {
+                    "name": "運搬車",
+                    "hour": null
+                },
+                {
+                    "name": "トラック",
+                    "hour": null
+                }
+            ],
+            "materials": [
+                {
+                    "name": "包丁",
+                    "usage": "",
+                    "usage_unit": ""
+                },
+                {
+                    "name": "コンテナ",
+                    "usage": "",
+                    "usage_unit": ""
+                }
+            ],
+            "number_of_workers": 3,
+            "total_number_of_hours": 24.0,
+            "cost": null,
+            "note": "M級中心の適期収穫に努める。委託堀取りの利用（全体の半分）選果施設へ出荷する。"
+        },
+        {
+            "name": "後かたづけ",
+            "description": "",
+            "eqiupments": [
+                {
+                    "name": "トラック",
+                    "hour": 5.0
+                }
+            ],
+            "materials": [],
+            "number_of_workers": 2,
+            "total_number_of_hours": 5.0,
+            "cost": null,
+            "note": ""
+        }
+    ]
+}

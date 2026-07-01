@@ -1,0 +1,166 @@
+{
+  "items": [
+    {
+      "item_name": "機械倉庫",
+      "amount": 1,
+      "specification": "軽量鉄骨 120m^2",
+      "occupied_ratio": 1.0,
+      "acquisition_cost": 11341000,
+      "service_life": 24,
+      "depreciation_cost": 473000
+    },
+    {
+      "item_name": "トラクター",
+      "amount": 1,
+      "specification": "41PS（直進、キャビン仕様）",
+      "occupied_ratio": 1.0,
+      "acquisition_cost": 5504000,
+      "service_life": 7,
+      "depreciation_cost": 393000
+    },
+    {
+      "item_name": "サブソイラー",
+      "amount": 1,
+      "specification": "",
+      "occupied_ratio": 1.0,
+      "acquisition_cost": 349000,
+      "service_life": 7,
+      "depreciation_cost": 25000
+    },
+    {
+      "item_name": "ロータリー",
+      "amount": 1,
+      "specification": "作業幅170cm",
+      "occupied_ratio": 1.0,
+      "acquisition_cost": 533000,
+      "service_life": 7,
+      "depreciation_cost": 38000
+    },
+    {
+      "item_name": "代かきハロー",
+      "amount": 1,
+      "specification": "作業幅340cm",
+      "occupied_ratio": 1.0,
+      "acquisition_cost": 767000,
+      "service_life": 7,
+      "depreciation_cost": 55000
+    },
+    {
+      "item_name": "ブロードキャスター",
+      "amount": 1,
+      "specification": "ホッパ容量200L",
+      "occupied_ratio": 1.0,
+      "acquisition_cost": 319000,
+      "service_life": 7,
+      "depreciation_cost": 23000
+    },
+    {
+      "item_name": "中耕ロータリー",
+      "amount": 1,
+      "specification": "",
+      "occupied_ratio": 1.0,
+      "acquisition_cost": 514000,
+      "service_life": 7,
+      "depreciation_cost": 37000
+    },
+    {
+      "item_name": "麦踏施肥",
+      "amount": 1,
+      "specification": "",
+      "occupied_ratio": 1.0,
+      "acquisition_cost": 514000,
+      "service_life": 7,
+      "depreciation_cost": 37000
+    },
+    {
+      "item_name": "施肥播種機",
+      "amount": 1,
+      "specification": "",
+      "occupied_ratio": 1.0,
+      "acquisition_cost": 387000,
+      "service_life": 7,
+      "depreciation_cost": 28000
+    },
+    {
+      "item_name": "育苗用播種機",
+      "amount": 1,
+      "specification": "200枚/時間",
+      "occupied_ratio": 1.0,
+      "acquisition_cost": 276000,
+      "service_life": 7,
+      "depreciation_cost": 20000
+    },
+    {
+      "item_name": "田植機",
+      "amount": 1,
+      "specification": "5条（高密度播種 施肥）",
+      "occupied_ratio": 1.0,
+      "acquisition_cost": 1754000,
+      "service_life": 7,
+      "depreciation_cost": 125000
+    },
+    {
+      "item_name": "自脱型コンバイン",
+      "amount": 1,
+      "specification": "4条刈り 48PS",
+      "occupied_ratio": 1.0,
+      "acquisition_cost": 6375000,
+      "service_life": 7,
+      "depreciation_cost": 455000
+    },
+    {
+      "item_name": "トラック",
+      "amount": 1,
+      "specification": "2トン",
+      "occupied_ratio": 1.0,
+      "acquisition_cost": 3756000,
+      "service_life": 7,
+      "depreciation_cost": 376000
+    },
+    {
+      "item_name": "溝堀機",
+      "amount": 1,
+      "specification": "",
+      "occupied_ratio": 1.0,
+      "acquisition_cost": 558000,
+      "service_life": 7,
+      "depreciation_cost": 40000
+    },
+    {
+      "item_name": "ブームスプレーヤー",
+      "amount": 1,
+      "specification": "500Lタンク キャビン仕様",
+      "occupied_ratio": 0.2,
+      "acquisition_cost": 1239000,
+      "service_life": 7,
+      "depreciation_cost": 88000
+    },
+    {
+      "item_name": "普通型コンバイン",
+      "amount": 1,
+      "specification": "刈幅1535mm キャビン仕様 40PS",
+      "occupied_ratio": 0.2,
+      "acquisition_cost": 1473000,
+      "service_life": 7,
+      "depreciation_cost": 105000
+    },
+    {
+      "item_name": "背負式動力散粉機",
+      "amount": 2,
+      "specification": "タンク容量30L",
+      "occupied_ratio": 1.0,
+      "acquisition_cost": 110000,
+      "service_life": 7,
+      "depreciation_cost": 8000
+    },
+    {
+      "item_name": "草刈り機",
+      "amount": 2,
+      "specification": "背負式",
+      "occupied_ratio": 1.0,
+      "acquisition_cost": 50000,
+      "service_life": 7,
+      "depreciation_cost": 7000
+    }
+  ]
+}

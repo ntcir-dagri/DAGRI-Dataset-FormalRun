@@ -1,0 +1,371 @@
+{
+  "items": [
+    {
+      "name": "品種の選定",
+      "description": "①種子注文",
+      "equipments": null,
+      "materials": [
+        {
+          "name": "種子",
+          "usage": 8,
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": null,
+      "total_number_of_hours": null,
+      "cost": null,
+      "note": "奨励品種から選定する。\n毎年種子更新に努める。"
+    },
+    {
+      "name": "種子の予措",
+      "description": "①種子消毒",
+      "equipments": [
+        {
+          "name": "",
+          "hour": 0.2
+        }
+      ],
+      "materials": [
+        {
+          "name": "種子粉衣剤",
+          "usage": "",
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 2,
+      "total_number_of_hours": 0.2,
+      "cost": null,
+      "note": "『〇〇病害虫防除基準』参照"
+    },
+    {
+      "name": "排水対策",
+      "description": "①弾丸暗渠(排水溝の設置)",
+      "equipments": [
+        {
+          "name": "トラクター、サブソイラー",
+          "hour": 0.3
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.3,
+      "cost": null,
+      "note": "前作終了後、極力早く土を乾かす。\n弾丸暗渠は2m間隔とする"
+    },
+    {
+      "name": "耕起・整地",
+      "description": "①土壌改良剤散布",
+      "equipments": [
+        {
+          "name": "ブロードキャスタ",
+          "hour": 0.2
+        }
+      ],
+      "materials": [
+        {
+          "name": "苦土石灰",
+          "usage": "",
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 2,
+      "total_number_of_hours": 0.2,
+      "cost": null,
+      "note": "PH5.0～6.5とする"
+    },
+    {
+      "name": "耕起・整地",
+      "description": "②耕起・整地",
+      "equipments": [
+        {
+          "name": "トラクター、ロータリー",
+          "hour": 0.45
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.45,
+      "cost": null,
+      "note": ""
+    },
+    {
+      "name": "施肥・播種",
+      "description": "①施肥・播種",
+      "equipments": [
+        {
+          "name": "施肥播種機",
+          "hour": 0.45
+        }
+      ],
+      "materials": [
+        {
+          "name": "種子、化成肥料",
+          "usage": "",
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.45,
+      "cost": null,
+      "note": "基肥\n一工程による播種を検討"
+    },
+    {
+      "name": "除草",
+      "description": "①初期除草剤散布",
+      "equipments": [
+        {
+          "name": "ブームスプレーヤー",
+          "hour": 0.2
+        }
+      ],
+      "materials": [
+        {
+          "name": "除草剤",
+          "usage": "",
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.2,
+      "cost": null,
+      "note": "『〇〇病害虫防除基準』参照"
+    },
+    {
+      "name": "除草",
+      "description": "②中期除草剤散布",
+      "equipments": [
+        {
+          "name": "ブームスプレーヤー",
+          "hour": 0.2
+        }
+      ],
+      "materials": [
+        {
+          "name": "除草剤",
+          "usage": "",
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.2,
+      "cost": null,
+      "note": "『〇〇病害虫防除基準』参照"
+    },
+    {
+      "name": "除草",
+      "description": "③後期除草剤散布",
+      "equipments": [
+        {
+          "name": "ブームスプレーヤー",
+          "hour": 0.2
+        }
+      ],
+      "materials": [
+        {
+          "name": "除草剤",
+          "usage": "",
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.2,
+      "cost": null,
+      "note": "『〇〇病害虫防除基準』参照"
+    },
+    {
+      "name": "麦踏",
+      "description": "①踏圧",
+      "equipments": [
+        {
+          "name": "麦踏施肥機",
+          "hour": 0.2
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.2,
+      "cost": null,
+      "note": ""
+    },
+    {
+      "name": "麦踏",
+      "description": "②踏圧施肥",
+      "equipments": [
+        {
+          "name": "麦踏施肥機",
+          "hour": 0.2
+        }
+      ],
+      "materials": [
+        {
+          "name": "化成肥料",
+          "usage": "",
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.2,
+      "cost": null,
+      "note": "分げつ肥"
+    },
+    {
+      "name": "麦踏",
+      "description": "③踏圧施肥",
+      "equipments": [
+        {
+          "name": "麦踏施肥機",
+          "hour": 0.2
+        }
+      ],
+      "materials": [
+        {
+          "name": "化成肥料",
+          "usage": "",
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.2,
+      "cost": null,
+      "note": "穂肥"
+    },
+    {
+      "name": "中耕",
+      "description": "①中耕・土入れ",
+      "equipments": [
+        {
+          "name": "トラクター、中耕ロータリー",
+          "hour": 0.2
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.2,
+      "cost": null,
+      "note": ""
+    },
+    {
+      "name": "中耕",
+      "description": "①中耕・土入れ",
+      "equipments": [
+        {
+          "name": "トラクター、中耕ロータリー",
+          "hour": 0.2
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.2,
+      "cost": null,
+      "note": "最終的な明渠の設置を兼ねて実施\nする。"
+    },
+    {
+      "name": "病害虫防除",
+      "description": "①農薬散布(1回目)",
+      "equipments": [
+        {
+          "name": "ブームスプレーヤー",
+          "hour": 0.2
+        }
+      ],
+      "materials": [
+        {
+          "name": "農薬",
+          "usage": "",
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.2,
+      "cost": null,
+      "note": "『〇〇病害虫防除基準』参照\n赤カビ病防除"
+    },
+    {
+      "name": "病害虫防除",
+      "description": "②農薬散布(2回目)",
+      "equipments": [
+        {
+          "name": "ブームスプレーヤー",
+          "hour": 0.2
+        }
+      ],
+      "materials": [
+        {
+          "name": "農薬",
+          "usage": "",
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.2,
+      "cost": null,
+      "note": "『〇〇病害虫防除基準』参照\n赤カビ病防除"
+    },
+    {
+      "name": "施肥",
+      "description": "②施肥",
+      "equipments": [
+        {
+          "name": "動力散紛機",
+          "hour": 0.25
+        }
+      ],
+      "materials": [
+        {
+          "name": "化成肥料",
+          "usage": "",
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.25,
+      "cost": null,
+      "note": "実肥（B２号のみ）"
+    },
+    {
+      "name": "収穫",
+      "description": "①刈取り",
+      "equipments": [
+        {
+          "name": "コンバイン",
+          "hour": 0.5
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.5,
+      "cost": null,
+      "note": "出穂後40～55日を目安とする。\n小麦は早刈りすると品質が落ちる\nので刈取期に注意する。\n大麦は収穫適期は全体の穂が 90\n度に湾曲したときが目安。"
+    },
+    {
+      "name": "収穫",
+      "description": "①運搬",
+      "equipments": [
+        {
+          "name": "トラック",
+          "hour": 0.5
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.5,
+      "cost": null,
+      "note": "共同乾燥施設鉄コンテナ利用"
+    },
+    {
+      "name": "乾燥･調製",
+      "description": "①共乾施設",
+      "equipments": [
+        {
+          "name": "委託",
+          "hour": 0.0
+        }
+      ],
+      "materials": null,
+      "number_of_workers": null,
+      "total_number_of_hours": null,
+      "cost": null,
+      "note": "共同乾燥施設利用"
+    }
+  ]
+}

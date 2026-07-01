@@ -1,0 +1,40 @@
+{
+    "items": [
+        {
+            "crop_name": "大豆",
+            "cultivar_name": "小粒ユキシズカ",
+            "area": 400,
+            "area_unit": "a"
+        },
+        {
+            "crop_name": "秋まき小麦",
+            "cultivar_name": "ゆめちから",
+            "area": 300,
+            "area_unit": "a"
+        },
+        {
+            "crop_name": "春まき小麦",
+            "cultivar_name": "はるひかり",
+            "area": 50,
+            "area_unit": "a"
+        },
+        {
+            "crop_name": "緑肥",
+            "cultivar_name": "ヘイオーツ、キカラシ、ヘアリーベッチ",
+            "area": 50,
+            "area_unit": "a"
+        },
+        {
+            "crop_name": "にんじん",
+            "cultivar_name": null,
+            "area": 100,
+            "area_unit": "a"
+        },
+        {
+            "crop_name": "かぼちゃ",
+            "cultivar_name": null,
+            "area": 300,
+            "area_unit": "a"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+  "items": [
+    {
+      "name": "心土破砕",
+      "period": "4月下旬",
+      "hours": 0.36
+    },
+    {
+      "name": "施肥",
+      "period": "4月下旬",
+      "hours": 0.21
+    },
+    {
+      "name": "耕起",
+      "period": "4月下旬",
+      "hours": 0.15
+    },
+    {
+      "name": "砕土・整地",
+      "period": "4月下旬",
+      "hours": 0.29
+    },
+    {
+      "name": "は種",
+      "period": "5月上旬",
+      "hours": 0.38
+    },
+    {
+      "name": "覆土",
+      "period": "5月上旬",
+      "hours": 0.15
+    },
+    {
+      "name": "鎮圧",
+      "period": "5月上旬",
+      "hours": 0.08
+    },
+    {
+      "name": "茎葉処理",
+      "period": "7月上旬",
+      "hours": 0.56
+    },
+    {
+      "name": "堆肥散布",
+      "period": "7月中旬",
+      "hours": 0.28
+    },
+    {
+      "name": "砕土・腐熟",
+      "period": "7月中旬",
+      "hours": 0.07
+    },
+    {
+      "name": "砕土",
+      "period": "7月下旬",
+      "hours": 0.07
+    },
+    {
+      "name": "砕土",
+      "period": "8月上旬",
+      "hours": 0.08
+    },
+    {
+      "name": "は種",
+      "period": "8月上旬",
+      "hours": 0.10
+    },
+    {
+      "name": "砕土",
+      "period": "10月上旬",
+      "hours": 0.14
+    }
+  ],
+  "term_unit": "上中下旬"
+}

@@ -1,0 +1,28 @@
+{
+    "items": [
+        {
+            "crop_name": "大豆",
+            "cultivar_name": "小粒ユキシズカ",
+            "area": 300,
+            "area_unit": "a"
+        },
+        {
+            "crop_name": "緑肥",
+            "cultivar_name": "ヘイオーツ、キカラシ、ヘアリーベッチ",
+            "area": 150,
+            "area_unit": "a"
+        },
+        {
+            "crop_name": "かぼちゃ",
+            "cultivar_name": null,
+            "area": 100,
+            "area_unit": "a"
+        },
+        {
+            "crop_name": "トマト",
+            "cultivar_name": "麗月",
+            "area": 20,
+            "area_unit": "a"
+        }
+    ]
+}

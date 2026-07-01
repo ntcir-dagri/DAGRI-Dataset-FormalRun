@@ -1,0 +1,248 @@
+{
+  "items": [
+    {
+      "name": "心土破砕",
+      "description": null,
+      "equipments": [
+        {
+          "name": "79ps、サブソイラー",
+          "hour": 0.36
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.36,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "施肥",
+      "description": null,
+      "equipments": [
+        {
+          "name": "43ps、ブロードキャスター",
+          "hour": 0.21
+        }
+      ],
+      "materials": [
+        {
+          "name": "発酵鶏糞",
+          "usage": 119,
+          "usage_unit": "kg/10a"
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.21,
+      "cost": null,
+      "note": "有機肥料（注参照）"
+    },
+    {
+      "name": "耕起",
+      "description": null,
+      "equipments": [
+        {
+          "name": "75ps、ロータリー（1回）",
+          "hour": 0.15
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.15,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "砕土・整地",
+      "description": null,
+      "equipments": [
+        {
+          "name": "79ps、チゼルプラウ、75ps、ロータリー（2回）",
+          "hour": 0.29
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.29,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "は種",
+      "description": null,
+      "equipments": [
+        {
+          "name": "43ps、グレンドリル（12条）",
+          "hour": 0.38
+        }
+      ],
+      "materials": [
+        {
+          "name": "ヘイオーツ",
+          "usage": 16.2,
+          "usage_unit": "kg/10a"
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 16.2,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "覆土",
+      "description": null,
+      "equipments": [
+        {
+          "name": "75ps、ロータリー",
+          "hour": 0.15
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.15,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "鎮圧",
+      "description": null,
+      "equipments": [
+        {
+          "name": "75ps、鎮圧ローラー",
+          "hour": 0.08
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.08,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "茎葉処理",
+      "description": null,
+      "equipments": [
+        {
+          "name": "43ps、ストローチョッパー",
+          "hour": 0.56
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.56,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "堆肥散布",
+      "description": null,
+      "equipments": [
+        {
+          "name": "43ps、マニュアスプレッダー（1.5t）、フロントローダー",
+          "hour": 0.28
+        }
+      ],
+      "materials": [
+        {
+          "name": "豚ぷん",
+          "usage": 300,
+          "usage_unit": "kg/10a"
+        },
+        {
+          "name": "茎葉残さ",
+          "usage": null,
+          "usage_unit": null
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.28,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "砕土（腐熟促進）",
+      "description": null,
+      "equipments": [
+        {
+          "name": "79ps、ロータリーハロー（１）",
+          "hour": 0.07
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.07,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "砕土",
+      "description": null,
+      "equipments": [
+        {
+          "name": "79ps、ロータリーハロー（２）",
+          "hour": 0.07
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.07,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "砕土",
+      "description": null,
+      "equipments": [
+        {
+          "name": "79ps、ロータリーハロー（３）",
+          "hour": 0.08
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.08,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "は種",
+      "description": null,
+      "equipments": [
+        {
+          "name": "43ps、グレンドリル（12条）",
+          "hour": 0.10
+        }
+      ],
+      "materials": [
+        {
+          "name": "キカラシ",
+          "usage": 0.7,
+          "usage_unit": "kg/10a"
+        },
+        {
+          "name": "ヘアリーベッチ",
+          "usage": 1.2,
+          "usage_unit": "kg/10a"
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.10,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "砕土",
+      "description": null,
+      "equipments": [
+        {
+          "name": "79ps、ロータリーハロー",
+          "hour": 0.14
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.14,
+      "cost": null,
+      "note": null
+    }
+  ]
+}

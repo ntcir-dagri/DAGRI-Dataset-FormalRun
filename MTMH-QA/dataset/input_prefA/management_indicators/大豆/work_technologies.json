@@ -1,0 +1,189 @@
+{
+  "items": [
+    {
+      "name": "堆肥散布",
+      "description": null,
+      "equipments": [
+        {
+          "name": "マニュアスプレッダー",
+          "hour": null
+        },
+        {
+          "name": "フロントローダー",
+          "hour": null
+        }
+      ],
+      "materials": [
+        {
+          "name": "豚ぷん",
+          "usage": 0.5,
+          "usage_unit": "t/10a"
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.06,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "心土破砕",
+      "description": null,
+      "equipments": [
+        {
+          "name": "サブソイラー",
+          "hour": 0.29
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.29,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "耕起",
+      "description": null,
+      "equipments": [
+        {
+          "name": "ロータリーハロー",
+          "hour": 0.16
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": null,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "砕土・整地",
+      "description": null,
+      "equipments": [
+        {
+          "name": "ロータリーハロー",
+          "hour": 0.5
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.5,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "は種・鎮圧",
+      "description": null,
+      "equipments": [
+        {
+          "name": "ビーンプランター",
+          "hour": null
+        },
+        {
+          "name": "鎮圧ローラー",
+          "hour": null
+        }
+      ],
+      "materials": [
+        {
+          "name": "ユキシズカ",
+          "usage": 5.1,
+          "usage_unit": "kg/10a"
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.25,
+      "cost": null,
+      "note": "種子"
+    },
+    {
+      "name": "追肥",
+      "description": null,
+      "equipments": [
+        {
+          "name": "ブロードキャスター",
+          "hour": 0.16
+        }
+      ],
+      "materials": [
+        {
+          "name": "発酵鶏ふん",
+          "usage": 71.0,
+          "usage_unit": "kg/10a"
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": null,
+      "cost": null,
+      "note": "有機肥料（注参照）\n注１）「有機肥料」とは有機JAS規格の別表１に該当する肥料のことである。堆肥も同様。"
+    },
+    {
+      "name": "中耕・除草",
+      "description": null,
+      "equipments": [
+        {
+          "name": "草カルチ（カルチベーター）",
+          "hour": 1.15
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": null,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "手取除草",
+      "description": null,
+      "equipments": [
+        {
+          "name": "ホー",
+          "hour": null
+        },
+        {
+          "name": "手除草",
+          "hour": null
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 2,
+      "total_number_of_hours": 4.46,
+      "cost": null,
+      "note": "ホー除草\nカルチ後\n拾い草"
+    },
+    {
+      "name": "収穫・運搬",
+      "description": null,
+      "equipments": [
+        {
+          "name": "自走式汎用コンバイン",
+          "hour": 0.44
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": null,
+      "cost": null,
+      "note": "ほ場でコンテナ積み、倉庫まで運搬、即出荷"
+    },
+    {
+      "name": "乾燥・出荷",
+      "description": null,
+      "equipments": null,
+      "materials": null,
+      "number_of_workers": null,
+      "total_number_of_hours": null,
+      "cost": null,
+      "note": "雑穀業者への委託"
+    },
+    {
+      "name": "残渣処理",
+      "description": null,
+      "equipments": null,
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.18,
+      "cost": null,
+      "note": null
+    }
+  ]
+}

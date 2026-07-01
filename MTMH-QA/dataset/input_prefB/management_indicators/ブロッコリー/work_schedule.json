@@ -1,0 +1,240 @@
+{
+  "term_unit": "上中下旬",
+  "items": [
+    {
+      "name": "播種・管理",
+      "period": "8月下旬",
+      "hours": 3.0
+    },
+    {
+      "name": "播種・管理",
+      "period": "9月上旬",
+      "hours": 2.0
+    },
+    {
+      "name": "播種・管理",
+      "period": "9月中旬",
+      "hours": 2.0
+    },
+    {
+      "name": "播種・管理",
+      "period": "9月下旬",
+      "hours": 2.0
+    },
+    {
+      "name": "播種・管理",
+      "period": "10月上旬",
+      "hours": 2.0
+    },
+    {
+      "name": "播種・管理",
+      "period": "10月中旬",
+      "hours": 1.0
+    },
+    {
+      "name": "定植準備",
+      "period": "9月上旬",
+      "hours": 1.0
+    },
+    {
+      "name": "定植準備",
+      "period": "9月中旬",
+      "hours": 1.0
+    },
+    {
+      "name": "定植準備",
+      "period": "9月下旬",
+      "hours": 1.0
+    },
+    {
+      "name": "定植準備",
+      "period": "10月上旬",
+      "hours": 1.0
+    },
+    {
+      "name": "定植準備",
+      "period": "10月中旬",
+      "hours": 1.0
+    },
+    {
+      "name": "定植準備",
+      "period": "10月下旬",
+      "hours": 1.0
+    },
+    {
+      "name": "定植準備",
+      "period": "11月上旬",
+      "hours": 1.0
+    },
+    {
+      "name": "定植",
+      "period": "9月中旬",
+      "hours": 0.7
+    },
+    {
+      "name": "定植",
+      "period": "9月下旬",
+      "hours": 0.7
+    },
+    {
+      "name": "定植",
+      "period": "10月上旬",
+      "hours": 0.7
+    },
+    {
+      "name": "定植",
+      "period": "10月中旬",
+      "hours": 0.7
+    },
+    {
+      "name": "定植",
+      "period": "10月下旬",
+      "hours": 0.6
+    },
+    {
+      "name": "定植",
+      "period": "11月上旬",
+      "hours": 0.6
+    },
+    {
+      "name": "肥培管理",
+      "period": "9月中旬",
+      "hours": 2.0
+    },
+    {
+      "name": "肥培管理",
+      "period": "9月下旬",
+      "hours": 4.0
+    },
+    {
+      "name": "肥培管理",
+      "period": "10月上旬",
+      "hours": 3.0
+    },
+    {
+      "name": "肥培管理",
+      "period": "10月中旬",
+      "hours": 2.0
+    },
+    {
+      "name": "肥培管理",
+      "period": "10月下旬",
+      "hours": 2.0
+    },
+    {
+      "name": "肥培管理",
+      "period": "11月上旬",
+      "hours": 2.0
+    },
+    {
+      "name": "肥培管理",
+      "period": "11月中旬",
+      "hours": 1.0
+    },
+    {
+      "name": "病害虫防除",
+      "period": "8月下旬",
+      "hours": 0.2
+    },
+    {
+      "name": "病害虫防除",
+      "period": "9月上旬",
+      "hours": 0.2
+    },
+    {
+      "name": "病害虫防除",
+      "period": "9月中旬",
+      "hours": 1.0
+    },
+    {
+      "name": "病害虫防除",
+      "period": "9月下旬",
+      "hours": 0.2
+    },
+    {
+      "name": "病害虫防除",
+      "period": "10月上旬",
+      "hours": 1.0
+    },
+    {
+      "name": "病害虫防除",
+      "period": "10月中旬",
+      "hours": 0.0
+    },
+    {
+      "name": "病害虫防除",
+      "period": "10月下旬",
+      "hours": 1.2
+    },
+    {
+      "name": "病害虫防除",
+      "period": "11月上旬",
+      "hours": 1.0
+    },
+    {
+      "name": "病害虫防除",
+      "period": "11月中旬",
+      "hours": 0.0
+    },
+    {
+      "name": "病害虫防除",
+      "period": "11月下旬",
+      "hours": 1.2
+    },
+    {
+      "name": "病害虫防除",
+      "period": "12月上旬",
+      "hours": 1.0
+    },
+    {
+      "name": "収穫出荷",
+      "period": "1月上旬",
+      "hours": 6.0
+    },
+    {
+      "name": "収穫出荷",
+      "period": "1月中旬",
+      "hours": 6.0
+    },
+    {
+      "name": "収穫出荷",
+      "period": "1月下旬",
+      "hours": 5.0
+    },
+    {
+      "name": "収穫出荷",
+      "period": "2月上旬",
+      "hours": 5.0
+    },
+    {
+      "name": "収穫出荷",
+      "period": "2月中旬",
+      "hours": 5.0
+    },
+    {
+      "name": "収穫出荷",
+      "period": "2月下旬",
+      "hours": 4.0
+    },
+    {
+      "name": "収穫出荷",
+      "period": "3月上旬",
+      "hours": 4.0
+    },
+    {
+      "name": "収穫出荷",
+      "period": "3月中旬",
+      "hours": 4.0
+    },
+    {
+      "name": "収穫出荷",
+      "period": "3月下旬",
+      "hours": 3.0
+    },
+    {
+      "name": "後かたづけ",
+      "period": "4月下旬",
+      "hours": 6.0
+    }
+  ]
+}

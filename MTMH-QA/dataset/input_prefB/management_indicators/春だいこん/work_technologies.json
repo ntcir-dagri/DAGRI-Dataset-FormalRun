@@ -1,0 +1,233 @@
+{
+    "items": [
+        {
+            "name": "耕転・整地",
+            "description": "耕起・整地",
+            "eqiupments": [
+                {
+                    "name": "トラクター",
+                    "hour": 4.5
+                }
+            ],
+            "materials": [
+                {
+                    "name": "石灰質資材",
+                    "usage": "130",
+                    "usage_unit": "kg"
+                }
+            ],
+            "number_of_workers": 1,
+            "total_number_of_hours": 4.5,
+            "cost": null,
+            "note": "堆肥は前作に施用。酸度矯正を行う。耕土が浅いと根張り、変形の原因となるので深耕し、十分砕土を行う。"
+        },
+        {
+            "name": "施肥",
+            "description": "基肥施用",
+            "eqiupments": [
+                {
+                    "name": "トラクター",
+                    "hour": 4.0
+                }
+            ],
+            "materials": [
+                {
+                    "name": "N",
+                    "usage": "15",
+                    "usage_unit": "kg"
+                },
+                {
+                    "name": "P2O5",
+                    "usage": "15",
+                    "usage_unit": "kg"
+                },
+                {
+                    "name": "K2O",
+                    "usage": "10",
+                    "usage_unit": "kg"
+                }
+            ],
+            "number_of_workers": 2,
+            "total_number_of_hours": 4.0,
+            "cost": null,
+            "note": "Nは緩効性肥料を主体に施用する。"
+        },
+        {
+            "name": "除草",
+            "description": "除草剤散布",
+            "eqiupments": [
+                {
+                    "name": "動力噴霧機",
+                    "hour": 3.0
+                }
+            ],
+            "materials": [],
+            "number_of_workers": 1,
+            "total_number_of_hours": 3.0,
+            "cost": null,
+            "note": "〇〇雑草防除基準による適正使用。"
+        },
+        {
+            "name": "マルチ被覆",
+            "description": "ポリマルチ被覆",
+            "eqiupments": [
+                {
+                    "name": "畦立てマルチシーダー",
+                    "hour": 7.0
+                }
+            ],
+            "materials": [
+                {
+                    "name": "有孔ポリマルチ",
+                    "usage": "500",
+                    "usage_unit": "m"
+                }
+            ],
+            "number_of_workers": 2,
+            "total_number_of_hours": 7.0,
+            "cost": null,
+            "note": "マルチ被覆は土壌水分のある時に行う。うね幅180cm×株間25cm（4条）10a当り8,000株。1穴に2粒まく。"
+        },
+        {
+            "name": "播種",
+            "description": "",
+            "eqiupments": [
+                {
+                    "name": "畦立てマルチシーダー",
+                    "hour": null
+                },
+                {
+                    "name": "管理機",
+                    "hour": null
+                }
+            ],
+            "materials": [
+                {
+                    "name": "コート種子",
+                    "usage": "1万8千",
+                    "usage_unit": "粒"
+                }
+            ],
+            "number_of_workers": 2,
+            "total_number_of_hours": 12.0,
+            "cost": null,
+            "note": "うね幅180cm×株間25cm（4条）で、10a当り約8,000株。1穴に2粒まく。"
+        },
+        {
+            "name": "トンネル被覆",
+            "description": "",
+            "eqiupments": null,
+            "materials": [
+                {
+                    "name": "トンネルビニール",
+                    "usage": "0.05mm × 2.7m × 500m",
+                    "usage_unit": ""
+                },
+                {
+                    "name": "支柱",
+                    "usage": "500",
+                    "usage_unit": "本"
+                }
+            ],
+            "number_of_workers": 3,
+            "total_number_of_hours": 24.0,
+            "cost": null,
+            "note": ""
+        },
+        {
+            "name": "保温管理",
+            "description": "保温管理",
+            "eqiupments": null,
+            "materials": [],
+            "number_of_workers": 1,
+            "total_number_of_hours": 15.0,
+            "cost": null,
+            "note": "播種から本葉2枚まではトンネルを密閉する。本葉10枚までは高温管理により花芽分化を抑制する（昼間最高30～35℃）。10枚以降徐々に換気する（20℃前後）。"
+        },
+        {
+            "name": "間引き",
+            "description": "",
+            "eqiupments": null,
+            "materials": [
+                {
+                    "name": "ハサミ",
+                    "usage": "",
+                    "usage_unit": null
+                }
+            ],
+            "number_of_workers": 1,
+            "total_number_of_hours": 4.0,
+            "cost": null,
+            "note": "本葉4～5枚の頃、1本仕立てとする。"
+        },
+        {
+            "name": "病害虫防除",
+            "description": "薬剤散布",
+            "eqiupments": [
+                {
+                    "name": "動力噴霧機",
+                    "hour": null
+                },
+                {
+                    "name": "トラック",
+                    "hour": null
+                }
+            ],
+            "materials": [
+                {
+                    "name": "殺虫剤・殺菌剤",
+                    "usage": "",
+                    "usage_unit": null
+                }
+            ],
+            "number_of_workers": 2,
+            "total_number_of_hours": 11.0,
+            "cost": null,
+            "note": "〇〇病害虫防除基準による適正防除。"
+        },
+        {
+            "name": "トンネル除去",
+            "description": "",
+            "eqiupments": null,
+            "materials": [],
+            "number_of_workers": 2,
+            "total_number_of_hours": 6.0,
+            "cost": null,
+            "note": ""
+        },
+        {
+            "name": "収穫出荷",
+            "description": "",
+            "eqiupments": [
+                {
+                    "name": "運搬車",
+                    "hour": null
+                },
+                {
+                    "name": "トラック",
+                    "hour": null
+                }
+            ],
+            "materials": [],
+            "number_of_workers": 2,
+            "total_number_of_hours": 31.0,
+            "cost": null,
+            "note": "共同選果施設の利用。"
+        },
+        {
+            "name": "後かたづけ",
+            "description": "",
+            "eqiupments": [
+                {
+                    "name": "トラック",
+                    "hour": 6.0
+                }
+            ],
+            "materials": [],
+            "number_of_workers": 2,
+            "total_number_of_hours": 6.0,
+            "cost": null,
+            "note": ""
+        }
+    ]
+}

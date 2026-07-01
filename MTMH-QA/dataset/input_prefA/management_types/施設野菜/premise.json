@@ -1,0 +1,16 @@
+{
+  "prefecture_name": "自治体A",
+  "area_name": null,
+  "crop_names": [
+    "トマト",
+    "きゅうり"
+  ],
+  "cultivated_land": 60.0,
+  "cultivated_land_unit": "a",
+  "borrowed_cultivated_land": null,
+  "owned_cultivated_land": null,
+  "labors": 2,
+  "total_income": 6123730,
+  "total_labor_hours": 6660.0,
+  "note": null
+}

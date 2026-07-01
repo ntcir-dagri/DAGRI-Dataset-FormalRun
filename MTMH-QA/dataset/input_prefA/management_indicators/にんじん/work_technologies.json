@@ -1,0 +1,231 @@
+{
+  "items": [
+    {
+      "name": "心土破砕",
+      "description": null,
+      "equipments": [
+        {
+          "name": "サブソイラー（3本爪）",
+          "hour": 0.2
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.2,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "堆肥散布",
+      "description": null,
+      "equipments": [
+        {
+          "name": "マニュアスプレッダー",
+          "hour": 0.1
+        },
+        {
+          "name": "フロントローダー",
+          "hour": 0.1
+        }
+      ],
+      "materials": [
+        {
+          "name": "豚ぷん堆肥",
+          "usage": 2400,
+          "usage_unit": "kg/10a"
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.2,
+      "cost": null,
+      "note": "春耕起前に散布"
+    },
+    {
+      "name": "施肥",
+      "description": null,
+      "equipments": [
+        {
+          "name": "ブロードキャスター（800l）",
+          "hour": 0.1
+        }
+      ],
+      "materials": [
+        {
+          "name": "オーガニック853",
+          "usage": 100,
+          "usage_unit": "kg/10a"
+        }
+      ],
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.1,
+      "cost": null,
+      "note": "有機肥料（注参照）"
+    },
+    {
+      "name": "耕起",
+      "description": null,
+      "equipments": [
+        {
+          "name": "チゼル（9本爪）",
+          "hour": 0.1
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.1,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "砕土・整地",
+      "description": null,
+      "equipments": [
+        {
+          "name": "サイドロータリーハロー（2.6m）",
+          "hour": 0.2
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 0.2,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "は種",
+      "description": null,
+      "equipments": [
+        {
+          "name": "自走3輪、テープシーダー（4条）",
+          "hour": 4.5
+        }
+      ],
+      "materials": [
+        {
+          "name": "シーダーテープ",
+          "usage": 1080,
+          "usage_unit": "m/10a"
+        }
+      ],
+      "number_of_workers": 2,
+      "total_number_of_hours": 4.5,
+      "cost": null,
+      "note": "うち機械稼働（2.0）"
+    },
+    {
+      "name": "中耕・除草",
+      "description": null,
+      "equipments": [
+        {
+          "name": "手押しカルチ",
+          "hour": 4.0
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 4.0,
+      "cost": null,
+      "note": "発芽前"
+    },
+    {
+      "name": "手取り除草",
+      "description": "手取り",
+      "equipments": null,
+      "materials": null,
+      "number_of_workers": 2,
+      "total_number_of_hours": 26.0,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "手取り除草",
+      "description": "ホー除草①",
+      "equipments": null,
+      "materials": null,
+      "number_of_workers": 2,
+      "total_number_of_hours": 15.0,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "手取り除草",
+      "description": "ホー除草②",
+      "equipments": null,
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 12.0,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "手取り除草",
+      "description": "拾い草",
+      "equipments": null,
+      "materials": null,
+      "number_of_workers": 2,
+      "total_number_of_hours": 44.0,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "収穫",
+      "description": "収穫作業",
+      "equipments": [
+        {
+          "name": "にんじんハーベスタ（自走式1条コンテナ）",
+          "hours": 32.0
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 2,
+      "total_number_of_hours": 32.0,
+      "cost": null,
+      "note": "うち機械稼働（5.0）"
+    },
+    {
+      "name": "収穫",
+      "description": "運搬",
+      "equipments": [
+        {
+          "name": "軽トラック",
+          "hours": 8.0
+        }
+      ],
+      "materials": null,
+      "number_of_workers": 1,
+      "total_number_of_hours": 8.0,
+      "cost": null,
+      "note": null
+    },
+    {
+      "name": "調製",
+      "description": null,
+      "equipments": null,
+      "materials": null,
+      "number_of_workers": 2,
+      "total_number_of_hours": 80.0,
+      "cost": null,
+      "note": "10kg箱"
+    },
+    {
+      "name": "出荷",
+      "description": null,
+      "equipments": null,
+      "materials": null,
+      "number_of_workers": null,
+      "total_number_of_hours": null,
+      "cost": null,
+      "note": "有機農協が集荷"
+    },
+    {
+      "name": "後片付け",
+      "description": null,
+      "equipments": null,
+      "materials": null,
+      "number_of_workers": null,
+      "total_number_of_hours": null,
+      "cost": null,
+      "note": null
+    }
+  ]
+}

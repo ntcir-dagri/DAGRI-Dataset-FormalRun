@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "crop_name": "水稲",
+      "cultivars": null,
+      "area": 2000,
+      "area_unit": "a"
+    },
+    {
+      "crop_name": "ブロッコリー",
+      "cultivars": null,
+      "area": 400,
+      "area_unit": "a"
+    }
+  ]
+}
